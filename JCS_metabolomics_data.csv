@@ -1,0 +1,2621 @@
+,metabolite,intensity,temperature,strain
+0,xanthine,879,30,WT
+1,valine,350124,30,WT
+2,uridine-5'-monophosphate,3724,30,WT
+3,uridine,637,30,WT
+4,urea,13551,30,WT
+5,uracil,3852,30,WT
+6,UDP-N-acetylglucosamine,1464,30,WT
+7,tyrosol,1850,30,WT
+8,tyrosine,144049,30,WT
+9,tryptophan,9828,30,WT
+10,trehalose-6-phosphate,360,30,WT
+11,trehalose,378653,30,WT
+12,trans-4-hydroxyproline,8203,30,WT
+13,thymine,376,30,WT
+14,threonine,114190,30,WT
+15,sulfuric acid,740,30,WT
+16,sucrose,264,30,WT
+17,succinic acid,20147,30,WT
+18,stearic acid,269117,30,WT
+19,spermidine,3421,30,WT
+20,sorbitol,652,30,WT
+21,serine,147802,30,WT
+22,saccharopine,15501,30,WT
+23,ribonic acid,370,30,WT
+24,ribitol,535,30,WT
+25,pyruvic acid,375,30,WT
+26,pyrophosphate ,113979,30,WT
+27,putrescine,2763,30,WT
+28,pseudo uridine,1490,30,WT
+29,"propane-1,3-diol NIST",481,30,WT
+30,proline,439910,30,WT
+31,pipecolinic acid,3061,30,WT
+32,phosphogluconic acid,881,30,WT
+33,phosphoenolpyruvate,846,30,WT
+34,phosphate,30283,30,WT
+35,phenylalanine,120304,30,WT
+36,pentadecanoic acid,1933,30,WT
+37,pelargonic acid,16195,30,WT
+38,parabanic acid NIST,1810,30,WT
+39,palmitoleic acid,2661,30,WT
+40,palmitic acid,32150,30,WT
+41,oxoproline,249082,30,WT
+42,oxalic acid,633,30,WT
+43,orotic acid,6876,30,WT
+44,ornithine,292640,30,WT
+45,oleic acid,624,30,WT
+46,N-methylalanine,8833,30,WT
+47,nicotinic acid,2927,30,WT
+48,nicotinamide,1198,30,WT
+49,n-epsilon-trimethyllysine,848,30,WT
+50,N-carbamylglutamate,452,30,WT
+51,myristic acid,1351,30,WT
+52,myo-inositol,10893,30,WT
+53,methionine sulfoxide,57387,30,WT
+54,methionine,5804,30,WT
+55,methanolphosphate,10500,30,WT
+56,malic acid,9266,30,WT
+57,maleimide,2483,30,WT
+58,lysine,1357039,30,WT
+59,levoglucosan,664,30,WT
+60,leucine,477039,30,WT
+61,lauric acid,4192,30,WT
+62,lactulose,229,30,WT
+63,lactic acid,1422,30,WT
+64,isothreonic acid,1431,30,WT
+65,isoleucine,303648,30,WT
+66,isocitric acid,1305,30,WT
+67,inositol-4-monophosphate,485,30,WT
+68,inosine,418,30,WT
+69,hydroxylamine,9167,30,WT
+70,hydroxycarbamate NIST,1258,30,WT
+71,homoserine,798,30,WT
+72,histidine,126151,30,WT
+73,hexose-6-phosphate,417,30,WT
+74,heptadecanoic acid,1650,30,WT
+75,guanosine,873,30,WT
+76,guanine,1018,30,WT
+77,glycyl-proline,2154,30,WT
+78,glycyl tyrosine,696,30,WT
+79,glycolic acid,1587,30,WT
+80,glycine,99773,30,WT
+81,glycerol-alpha-phosphate,27061,30,WT
+82,glycerol-3-galactoside,1059,30,WT
+83,glycerol,1040864,30,WT
+84,glyceric acid,1952,30,WT
+85,glutamine,89495,30,WT
+86,glutamic acid,627709,30,WT
+87,glucose-6-phosphate,409,30,WT
+88,glucose-1-phosphate,1556,30,WT
+89,glucose,2513,30,WT
+90,gluconic acid,336,30,WT
+91,galactose,1498,30,WT
+92,galactinol,31112,30,WT
+93,fumaric acid,10005,30,WT
+94,fructose-6-phosphate,230,30,WT
+95,fructose,197,30,WT
+96,ethanol phosphate NIST,1572,30,WT
+97,ergosterol,508,30,WT
+98,cytidine-5-monophosphate,776,30,WT
+99,cysteine-glycine,1827,30,WT
+100,cysteine,1114,30,WT
+101,conduritol-beta-epoxide,273,30,WT
+102,citrulline,22078,30,WT
+103,citric acid,92016,30,WT
+104,butyrolactam NIST,1496,30,WT
+105,"butane-2,3-diol NIST",690,30,WT
+106,biphenyl,844,30,WT
+107,beta-mannosylglycerate,2620,30,WT
+108,beta-glycerolphosphate,789,30,WT
+109,aspartic acid,83352,30,WT
+110,asparagine,16683,30,WT
+111,arachidic acid,3573,30,WT
+112,aminomalonate,5466,30,WT
+113,alpha-ketoglutarate,203,30,WT
+114,allothreonine,18960,30,WT
+115,alanine-alanine,2947,30,WT
+116,alanine,564008,30,WT
+117,adrenaline,1676,30,WT
+118,adenosine-5-monophosphate,17647,30,WT
+119,adenosine,3488,30,WT
+120,adenine,276,30,WT
+121,aconitic acid,525,30,WT
+122,5-methoxytryptamine,1322,30,WT
+123,5'-deoxy-5'-methylthioadenosine,592,30,WT
+124,4-aminobutyric acid,3039,30,WT
+125,3-phosphoglycerate,2541,30,WT
+126,3-hydroxy-3-methylglutaric acid,303,30,WT
+127,3-aminoisobutyric acid,224,30,WT
+128,2-methylglyceric acid NIST,4344,30,WT
+129,2-hydroxyglutaric acid,374,30,WT
+130,"2,5-dihydroxypyrazine NIST",1860,30,WT
+0,xanthine,690,30,WT
+1,valine,394642,30,WT
+2,uridine-5'-monophosphate,2408,30,WT
+3,uridine,32,30,WT
+4,urea,2626,30,WT
+5,uracil,2932,30,WT
+6,UDP-N-acetylglucosamine,929,30,WT
+7,tyrosol,2123,30,WT
+8,tyrosine,146708,30,WT
+9,tryptophan,10464,30,WT
+10,trehalose-6-phosphate,454,30,WT
+11,trehalose,615453,30,WT
+12,trans-4-hydroxyproline,3251,30,WT
+13,thymine,462,30,WT
+14,threonine,113742,30,WT
+15,sulfuric acid,617,30,WT
+16,sucrose,331,30,WT
+17,succinic acid,26868,30,WT
+18,stearic acid,208003,30,WT
+19,spermidine,3944,30,WT
+20,sorbitol,770,30,WT
+21,serine,151387,30,WT
+22,saccharopine,15476,30,WT
+23,ribonic acid,386,30,WT
+24,ribitol,570,30,WT
+25,pyruvic acid,314,30,WT
+26,pyrophosphate ,71494,30,WT
+27,putrescine,2344,30,WT
+28,pseudo uridine,1488,30,WT
+29,"propane-1,3-diol NIST",308,30,WT
+30,proline,534179,30,WT
+31,pipecolinic acid,3590,30,WT
+32,phosphogluconic acid,667,30,WT
+33,phosphoenolpyruvate,834,30,WT
+34,phosphate,31014,30,WT
+35,phenylalanine,115666,30,WT
+36,pentadecanoic acid,1525,30,WT
+37,pelargonic acid,24591,30,WT
+38,parabanic acid NIST,1484,30,WT
+39,palmitoleic acid,4445,30,WT
+40,palmitic acid,28291,30,WT
+41,oxoproline,210634,30,WT
+42,oxalic acid,263,30,WT
+43,orotic acid,5142,30,WT
+44,ornithine,288460,30,WT
+45,oleic acid,2175,30,WT
+46,N-methylalanine,12851,30,WT
+47,nicotinic acid,532,30,WT
+48,nicotinamide,1202,30,WT
+49,n-epsilon-trimethyllysine,983,30,WT
+50,N-carbamylglutamate,398,30,WT
+51,myristic acid,1037,30,WT
+52,myo-inositol,11774,30,WT
+53,methionine sulfoxide,47769,30,WT
+54,methionine,8214,30,WT
+55,methanolphosphate,8936,30,WT
+56,malic acid,10218,30,WT
+57,maleimide,2330,30,WT
+58,lysine,1337500,30,WT
+59,levoglucosan,618,30,WT
+60,leucine,499515,30,WT
+61,lauric acid,5663,30,WT
+62,lactulose,274,30,WT
+63,lactic acid,1535,30,WT
+64,isothreonic acid,1159,30,WT
+65,isoleucine,302608,30,WT
+66,isocitric acid,1144,30,WT
+67,inositol-4-monophosphate,503,30,WT
+68,inosine,441,30,WT
+69,hydroxylamine,7400,30,WT
+70,hydroxycarbamate NIST,415,30,WT
+71,homoserine,798,30,WT
+72,histidine,141303,30,WT
+73,hexose-6-phosphate,622,30,WT
+74,heptadecanoic acid,1137,30,WT
+75,guanosine,589,30,WT
+76,guanine,859,30,WT
+77,glycyl-proline,1751,30,WT
+78,glycyl tyrosine,725,30,WT
+79,glycolic acid,1275,30,WT
+80,glycine,144122,30,WT
+81,glycerol-alpha-phosphate,39905,30,WT
+82,glycerol-3-galactoside,747,30,WT
+83,glycerol,655081,30,WT
+84,glyceric acid,1178,30,WT
+85,glutamine,83390,30,WT
+86,glutamic acid,673432,30,WT
+87,glucose-6-phosphate,1162,30,WT
+88,glucose-1-phosphate,1581,30,WT
+89,glucose,1563,30,WT
+90,gluconic acid,373,30,WT
+91,galactose,506,30,WT
+92,galactinol,26668,30,WT
+93,fumaric acid,9847,30,WT
+94,fructose-6-phosphate,798,30,WT
+95,fructose,261,30,WT
+96,ethanol phosphate NIST,2581,30,WT
+97,ergosterol,235,30,WT
+98,cytidine-5-monophosphate,690,30,WT
+99,cysteine-glycine,1534,30,WT
+100,cysteine,1589,30,WT
+101,conduritol-beta-epoxide,326,30,WT
+102,citrulline,11823,30,WT
+103,citric acid,76255,30,WT
+104,butyrolactam NIST,1990,30,WT
+105,"butane-2,3-diol NIST",578,30,WT
+106,biphenyl,555,30,WT
+107,beta-mannosylglycerate,2101,30,WT
+108,beta-glycerolphosphate,661,30,WT
+109,aspartic acid,68449,30,WT
+110,asparagine,15936,30,WT
+111,arachidic acid,2398,30,WT
+112,aminomalonate,3650,30,WT
+113,alpha-ketoglutarate,415,30,WT
+114,allothreonine,25667,30,WT
+115,alanine-alanine,2191,30,WT
+116,alanine,664138,30,WT
+117,adrenaline,1467,30,WT
+118,adenosine-5-monophosphate,12932,30,WT
+119,adenosine,3312,30,WT
+120,adenine,5903,30,WT
+121,aconitic acid,577,30,WT
+122,5-methoxytryptamine,1070,30,WT
+123,5'-deoxy-5'-methylthioadenosine,768,30,WT
+124,4-aminobutyric acid,5540,30,WT
+125,3-phosphoglycerate,1694,30,WT
+126,3-hydroxy-3-methylglutaric acid,361,30,WT
+127,3-aminoisobutyric acid,459,30,WT
+128,2-methylglyceric acid NIST,2554,30,WT
+129,2-hydroxyglutaric acid,342,30,WT
+130,"2,5-dihydroxypyrazine NIST",1008,30,WT
+0,xanthine,451,30,WT
+1,valine,329314,30,WT
+2,uridine-5'-monophosphate,5282,30,WT
+3,uridine,302,30,WT
+4,urea,16184,30,WT
+5,uracil,1731,30,WT
+6,UDP-N-acetylglucosamine,1328,30,WT
+7,tyrosol,2379,30,WT
+8,tyrosine,137967,30,WT
+9,tryptophan,13835,30,WT
+10,trehalose-6-phosphate,357,30,WT
+11,trehalose,702342,30,WT
+12,trans-4-hydroxyproline,3252,30,WT
+13,thymine,401,30,WT
+14,threonine,117117,30,WT
+15,sulfuric acid,1090,30,WT
+16,sucrose,146,30,WT
+17,succinic acid,9501,30,WT
+18,stearic acid,195106,30,WT
+19,spermidine,3403,30,WT
+20,sorbitol,868,30,WT
+21,serine,135061,30,WT
+22,saccharopine,16677,30,WT
+23,ribonic acid,372,30,WT
+24,ribitol,608,30,WT
+25,pyruvic acid,188,30,WT
+26,pyrophosphate ,156531,30,WT
+27,putrescine,2930,30,WT
+28,pseudo uridine,1285,30,WT
+29,"propane-1,3-diol NIST",421,30,WT
+30,proline,446162,30,WT
+31,pipecolinic acid,2734,30,WT
+32,phosphogluconic acid,836,30,WT
+33,phosphoenolpyruvate,1279,30,WT
+34,phosphate,23135,30,WT
+35,phenylalanine,90337,30,WT
+36,pentadecanoic acid,1311,30,WT
+37,pelargonic acid,15739,30,WT
+38,parabanic acid NIST,1725,30,WT
+39,palmitoleic acid,561,30,WT
+40,palmitic acid,25725,30,WT
+41,oxoproline,217401,30,WT
+42,oxalic acid,433,30,WT
+43,orotic acid,10502,30,WT
+44,ornithine,614603,30,WT
+45,oleic acid,330,30,WT
+46,N-methylalanine,15324,30,WT
+47,nicotinic acid,2181,30,WT
+48,nicotinamide,1335,30,WT
+49,n-epsilon-trimethyllysine,782,30,WT
+50,N-carbamylglutamate,497,30,WT
+51,myristic acid,594,30,WT
+52,myo-inositol,12864,30,WT
+53,methionine sulfoxide,39845,30,WT
+54,methionine,4338,30,WT
+55,methanolphosphate,13505,30,WT
+56,malic acid,9925,30,WT
+57,maleimide,1228,30,WT
+58,lysine,1154713,30,WT
+59,levoglucosan,467,30,WT
+60,leucine,381938,30,WT
+61,lauric acid,4036,30,WT
+62,lactulose,482,30,WT
+63,lactic acid,782,30,WT
+64,isothreonic acid,255,30,WT
+65,isoleucine,240335,30,WT
+66,isocitric acid,1408,30,WT
+67,inositol-4-monophosphate,540,30,WT
+68,inosine,382,30,WT
+69,hydroxylamine,10395,30,WT
+70,hydroxycarbamate NIST,1015,30,WT
+71,homoserine,706,30,WT
+72,histidine,192949,30,WT
+73,hexose-6-phosphate,335,30,WT
+74,heptadecanoic acid,1629,30,WT
+75,guanosine,450,30,WT
+76,guanine,942,30,WT
+77,glycyl-proline,2056,30,WT
+78,glycyl tyrosine,662,30,WT
+79,glycolic acid,1048,30,WT
+80,glycine,137763,30,WT
+81,glycerol-alpha-phosphate,24800,30,WT
+82,glycerol-3-galactoside,1017,30,WT
+83,glycerol,609345,30,WT
+84,glyceric acid,2586,30,WT
+85,glutamine,104824,30,WT
+86,glutamic acid,759476,30,WT
+87,glucose-6-phosphate,663,30,WT
+88,glucose-1-phosphate,2239,30,WT
+89,glucose,4031,30,WT
+90,gluconic acid,282,30,WT
+91,galactose,2251,30,WT
+92,galactinol,36682,30,WT
+93,fumaric acid,8569,30,WT
+94,fructose-6-phosphate,453,30,WT
+95,fructose,181,30,WT
+96,ethanol phosphate NIST,1989,30,WT
+97,ergosterol,951,30,WT
+98,cytidine-5-monophosphate,668,30,WT
+99,cysteine-glycine,1347,30,WT
+100,cysteine,778,30,WT
+101,conduritol-beta-epoxide,308,30,WT
+102,citrulline,33614,30,WT
+103,citric acid,118225,30,WT
+104,butyrolactam NIST,1328,30,WT
+105,"butane-2,3-diol NIST",510,30,WT
+106,biphenyl,976,30,WT
+107,beta-mannosylglycerate,2828,30,WT
+108,beta-glycerolphosphate,919,30,WT
+109,aspartic acid,58628,30,WT
+110,asparagine,13409,30,WT
+111,arachidic acid,2485,30,WT
+112,aminomalonate,4282,30,WT
+113,alpha-ketoglutarate,203,30,WT
+114,allothreonine,24275,30,WT
+115,alanine-alanine,895,30,WT
+116,alanine,544770,30,WT
+117,adrenaline,1463,30,WT
+118,adenosine-5-monophosphate,20445,30,WT
+119,adenosine,2129,30,WT
+120,adenine,11520,30,WT
+121,aconitic acid,540,30,WT
+122,5-methoxytryptamine,1769,30,WT
+123,5'-deoxy-5'-methylthioadenosine,811,30,WT
+124,4-aminobutyric acid,5032,30,WT
+125,3-phosphoglycerate,5061,30,WT
+126,3-hydroxy-3-methylglutaric acid,319,30,WT
+127,3-aminoisobutyric acid,547,30,WT
+128,2-methylglyceric acid NIST,4464,30,WT
+129,2-hydroxyglutaric acid,250,30,WT
+130,"2,5-dihydroxypyrazine NIST",1609,30,WT
+0,xanthine,1053,30,WT
+1,valine,373515,30,WT
+2,uridine-5'-monophosphate,2254,30,WT
+3,uridine,365,30,WT
+4,urea,6432,30,WT
+5,uracil,2267,30,WT
+6,UDP-N-acetylglucosamine,1084,30,WT
+7,tyrosol,4751,30,WT
+8,tyrosine,193691,30,WT
+9,tryptophan,29607,30,WT
+10,trehalose-6-phosphate,221,30,WT
+11,trehalose,431179,30,WT
+12,trans-4-hydroxyproline,9256,30,WT
+13,thymine,406,30,WT
+14,threonine,126497,30,WT
+15,sulfuric acid,2761,30,WT
+16,sucrose,172,30,WT
+17,succinic acid,43435,30,WT
+18,stearic acid,123156,30,WT
+19,spermidine,2349,30,WT
+20,sorbitol,402,30,WT
+21,serine,161827,30,WT
+22,saccharopine,12208,30,WT
+23,ribonic acid,423,30,WT
+24,ribitol,573,30,WT
+25,pyruvic acid,97,30,WT
+26,pyrophosphate ,36931,30,WT
+27,putrescine,1854,30,WT
+28,pseudo uridine,1280,30,WT
+29,"propane-1,3-diol NIST",322,30,WT
+30,proline,572566,30,WT
+31,pipecolinic acid,1469,30,WT
+32,phosphogluconic acid,498,30,WT
+33,phosphoenolpyruvate,675,30,WT
+34,phosphate,15793,30,WT
+35,phenylalanine,159412,30,WT
+36,pentadecanoic acid,1482,30,WT
+37,pelargonic acid,13143,30,WT
+38,parabanic acid NIST,1151,30,WT
+39,palmitoleic acid,1493,30,WT
+40,palmitic acid,18431,30,WT
+41,oxoproline,284937,30,WT
+42,oxalic acid,87,30,WT
+43,orotic acid,3924,30,WT
+44,ornithine,342781,30,WT
+45,oleic acid,306,30,WT
+46,N-methylalanine,10379,30,WT
+47,nicotinic acid,5252,30,WT
+48,nicotinamide,1181,30,WT
+49,n-epsilon-trimethyllysine,603,30,WT
+50,N-carbamylglutamate,342,30,WT
+51,myristic acid,548,30,WT
+52,myo-inositol,10840,30,WT
+53,methionine sulfoxide,39290,30,WT
+54,methionine,19237,30,WT
+55,methanolphosphate,4166,30,WT
+56,malic acid,10625,30,WT
+57,maleimide,5988,30,WT
+58,lysine,854531,30,WT
+59,levoglucosan,601,30,WT
+60,leucine,379269,30,WT
+61,lauric acid,6908,30,WT
+62,lactulose,206,30,WT
+63,lactic acid,946,30,WT
+64,isothreonic acid,1187,30,WT
+65,isoleucine,453405,30,WT
+66,isocitric acid,1060,30,WT
+67,inositol-4-monophosphate,325,30,WT
+68,inosine,365,30,WT
+69,hydroxylamine,4218,30,WT
+70,hydroxycarbamate NIST,724,30,WT
+71,homoserine,949,30,WT
+72,histidine,125493,30,WT
+73,hexose-6-phosphate,399,30,WT
+74,heptadecanoic acid,1318,30,WT
+75,guanosine,901,30,WT
+76,guanine,714,30,WT
+77,glycyl-proline,600,30,WT
+78,glycyl tyrosine,996,30,WT
+79,glycolic acid,427,30,WT
+80,glycine,173811,30,WT
+81,glycerol-alpha-phosphate,25085,30,WT
+82,glycerol-3-galactoside,501,30,WT
+83,glycerol,1139577,30,WT
+84,glyceric acid,1855,30,WT
+85,glutamine,69041,30,WT
+86,glutamic acid,639805,30,WT
+87,glucose-6-phosphate,266,30,WT
+88,glucose-1-phosphate,1364,30,WT
+89,glucose,1279,30,WT
+90,gluconic acid,271,30,WT
+91,galactose,963,30,WT
+92,galactinol,20606,30,WT
+93,fumaric acid,11898,30,WT
+94,fructose-6-phosphate,374,30,WT
+95,fructose,156,30,WT
+96,ethanol phosphate NIST,1666,30,WT
+97,ergosterol,410,30,WT
+98,cytidine-5-monophosphate,419,30,WT
+99,cysteine-glycine,1001,30,WT
+100,cysteine,2238,30,WT
+101,conduritol-beta-epoxide,91,30,WT
+102,citrulline,7842,30,WT
+103,citric acid,74138,30,WT
+104,butyrolactam NIST,1483,30,WT
+105,"butane-2,3-diol NIST",851,30,WT
+106,biphenyl,539,30,WT
+107,beta-mannosylglycerate,1702,30,WT
+108,beta-glycerolphosphate,423,30,WT
+109,aspartic acid,95261,30,WT
+110,asparagine,21227,30,WT
+111,arachidic acid,1333,30,WT
+112,aminomalonate,3336,30,WT
+113,alpha-ketoglutarate,187,30,WT
+114,allothreonine,22418,30,WT
+115,alanine-alanine,2206,30,WT
+116,alanine,707832,30,WT
+117,adrenaline,2069,30,WT
+118,adenosine-5-monophosphate,9640,30,WT
+119,adenosine,9049,30,WT
+120,adenine,4499,30,WT
+121,aconitic acid,366,30,WT
+122,5-methoxytryptamine,1423,30,WT
+123,5'-deoxy-5'-methylthioadenosine,376,30,WT
+124,4-aminobutyric acid,4425,30,WT
+125,3-phosphoglycerate,1930,30,WT
+126,3-hydroxy-3-methylglutaric acid,393,30,WT
+127,3-aminoisobutyric acid,110,30,WT
+128,2-methylglyceric acid NIST,9173,30,WT
+129,2-hydroxyglutaric acid,508,30,WT
+130,"2,5-dihydroxypyrazine NIST",697,30,WT
+0,xanthine,874,30,WT
+1,valine,420115,30,WT
+2,uridine-5'-monophosphate,3415,30,WT
+3,uridine,438,30,WT
+4,urea,14881,30,WT
+5,uracil,3161,30,WT
+6,UDP-N-acetylglucosamine,1089,30,WT
+7,tyrosol,1598,30,WT
+8,tyrosine,153413,30,WT
+9,tryptophan,10333,30,WT
+10,trehalose-6-phosphate,413,30,WT
+11,trehalose,664138,30,WT
+12,trans-4-hydroxyproline,3277,30,WT
+13,thymine,312,30,WT
+14,threonine,115502,30,WT
+15,sulfuric acid,193,30,WT
+16,sucrose,86,30,WT
+17,succinic acid,28988,30,WT
+18,stearic acid,266015,30,WT
+19,spermidine,2617,30,WT
+20,sorbitol,810,30,WT
+21,serine,171383,30,WT
+22,saccharopine,14583,30,WT
+23,ribonic acid,404,30,WT
+24,ribitol,554,30,WT
+25,pyruvic acid,400,30,WT
+26,pyrophosphate ,106738,30,WT
+27,putrescine,2801,30,WT
+28,pseudo uridine,1302,30,WT
+29,"propane-1,3-diol NIST",477,30,WT
+30,proline,527568,30,WT
+31,pipecolinic acid,3448,30,WT
+32,phosphogluconic acid,806,30,WT
+33,phosphoenolpyruvate,511,30,WT
+34,phosphate,17033,30,WT
+35,phenylalanine,128394,30,WT
+36,pentadecanoic acid,2499,30,WT
+37,pelargonic acid,14855,30,WT
+38,parabanic acid NIST,1475,30,WT
+39,palmitoleic acid,2938,30,WT
+40,palmitic acid,32184,30,WT
+41,oxoproline,223949,30,WT
+42,oxalic acid,402,30,WT
+43,orotic acid,3622,30,WT
+44,ornithine,371480,30,WT
+45,oleic acid,1096,30,WT
+46,N-methylalanine,13266,30,WT
+47,nicotinic acid,2363,30,WT
+48,nicotinamide,1167,30,WT
+49,n-epsilon-trimethyllysine,734,30,WT
+50,N-carbamylglutamate,453,30,WT
+51,myristic acid,1380,30,WT
+52,myo-inositol,11823,30,WT
+53,methionine sulfoxide,63168,30,WT
+54,methionine,2418,30,WT
+55,methanolphosphate,15151,30,WT
+56,malic acid,10752,30,WT
+57,maleimide,3841,30,WT
+58,lysine,1087223,30,WT
+59,levoglucosan,642,30,WT
+60,leucine,577627,30,WT
+61,lauric acid,13853,30,WT
+62,lactulose,299,30,WT
+63,lactic acid,1906,30,WT
+64,isothreonic acid,1337,30,WT
+65,isoleucine,323533,30,WT
+66,isocitric acid,1007,30,WT
+67,inositol-4-monophosphate,203,30,WT
+68,inosine,341,30,WT
+69,hydroxylamine,9698,30,WT
+70,hydroxycarbamate NIST,744,30,WT
+71,homoserine,580,30,WT
+72,histidine,148817,30,WT
+73,hexose-6-phosphate,503,30,WT
+74,heptadecanoic acid,2119,30,WT
+75,guanosine,572,30,WT
+76,guanine,562,30,WT
+77,glycyl-proline,1341,30,WT
+78,glycyl tyrosine,667,30,WT
+79,glycolic acid,782,30,WT
+80,glycine,159561,30,WT
+81,glycerol-alpha-phosphate,37712,30,WT
+82,glycerol-3-galactoside,746,30,WT
+83,glycerol,445966,30,WT
+84,glyceric acid,1922,30,WT
+85,glutamine,90732,30,WT
+86,glutamic acid,597507,30,WT
+87,glucose-6-phosphate,813,30,WT
+88,glucose-1-phosphate,1585,30,WT
+89,glucose,4824,30,WT
+90,gluconic acid,255,30,WT
+91,galactose,3758,30,WT
+92,galactinol,26323,30,WT
+93,fumaric acid,11194,30,WT
+94,fructose-6-phosphate,593,30,WT
+95,fructose,25,30,WT
+96,ethanol phosphate NIST,2509,30,WT
+97,ergosterol,393,30,WT
+98,cytidine-5-monophosphate,524,30,WT
+99,cysteine-glycine,1099,30,WT
+100,cysteine,795,30,WT
+101,conduritol-beta-epoxide,335,30,WT
+102,citrulline,10193,30,WT
+103,citric acid,78985,30,WT
+104,butyrolactam NIST,2030,30,WT
+105,"butane-2,3-diol NIST",555,30,WT
+106,biphenyl,747,30,WT
+107,beta-mannosylglycerate,1394,30,WT
+108,beta-glycerolphosphate,619,30,WT
+109,aspartic acid,81544,30,WT
+110,asparagine,18205,30,WT
+111,arachidic acid,3318,30,WT
+112,aminomalonate,1996,30,WT
+113,alpha-ketoglutarate,210,30,WT
+114,allothreonine,27481,30,WT
+115,alanine-alanine,2933,30,WT
+116,alanine,715970,30,WT
+117,adrenaline,1578,30,WT
+118,adenosine-5-monophosphate,18312,30,WT
+119,adenosine,3626,30,WT
+120,adenine,9991,30,WT
+121,aconitic acid,581,30,WT
+122,5-methoxytryptamine,1445,30,WT
+123,5'-deoxy-5'-methylthioadenosine,789,30,WT
+124,4-aminobutyric acid,7057,30,WT
+125,3-phosphoglycerate,1865,30,WT
+126,3-hydroxy-3-methylglutaric acid,466,30,WT
+127,3-aminoisobutyric acid,21,30,WT
+128,2-methylglyceric acid NIST,4720,30,WT
+129,2-hydroxyglutaric acid,243,30,WT
+130,"2,5-dihydroxypyrazine NIST",1130,30,WT
+0,xanthine,917,30,datg32
+1,valine,424656,30,datg32
+2,uridine-5'-monophosphate,3152,30,datg32
+3,uridine,398,30,datg32
+4,urea,24192,30,datg32
+5,uracil,4743,30,datg32
+6,UDP-N-acetylglucosamine,961,30,datg32
+7,tyrosol,3317,30,datg32
+8,tyrosine,145791,30,datg32
+9,tryptophan,9815,30,datg32
+10,trehalose-6-phosphate,428,30,datg32
+11,trehalose,269221,30,datg32
+12,trans-4-hydroxyproline,4578,30,datg32
+13,thymine,349,30,datg32
+14,threonine,147270,30,datg32
+15,sulfuric acid,195,30,datg32
+16,sucrose,143,30,datg32
+17,succinic acid,24548,30,datg32
+18,stearic acid,146568,30,datg32
+19,spermidine,2868,30,datg32
+20,sorbitol,844,30,datg32
+21,serine,169698,30,datg32
+22,saccharopine,31648,30,datg32
+23,ribonic acid,434,30,datg32
+24,ribitol,609,30,datg32
+25,pyruvic acid,570,30,datg32
+26,pyrophosphate ,154314,30,datg32
+27,putrescine,1227,30,datg32
+28,pseudo uridine,1262,30,datg32
+29,"propane-1,3-diol NIST",460,30,datg32
+30,proline,549006,30,datg32
+31,pipecolinic acid,12103,30,datg32
+32,phosphogluconic acid,1650,30,datg32
+33,phosphoenolpyruvate,1723,30,datg32
+34,phosphate,21012,30,datg32
+35,phenylalanine,113782,30,datg32
+36,pentadecanoic acid,1515,30,datg32
+37,pelargonic acid,15956,30,datg32
+38,parabanic acid NIST,1438,30,datg32
+39,palmitoleic acid,4742,30,datg32
+40,palmitic acid,23175,30,datg32
+41,oxoproline,243172,30,datg32
+42,oxalic acid,199,30,datg32
+43,orotic acid,8086,30,datg32
+44,ornithine,268829,30,datg32
+45,oleic acid,1252,30,datg32
+46,N-methylalanine,20418,30,datg32
+47,nicotinic acid,3066,30,datg32
+48,nicotinamide,1655,30,datg32
+49,n-epsilon-trimethyllysine,718,30,datg32
+50,N-carbamylglutamate,377,30,datg32
+51,myristic acid,831,30,datg32
+52,myo-inositol,12781,30,datg32
+53,methionine sulfoxide,39066,30,datg32
+54,methionine,13767,30,datg32
+55,methanolphosphate,18749,30,datg32
+56,malic acid,12869,30,datg32
+57,maleimide,3755,30,datg32
+58,lysine,726417,30,datg32
+59,levoglucosan,945,30,datg32
+60,leucine,384260,30,datg32
+61,lauric acid,4078,30,datg32
+62,lactulose,186,30,datg32
+63,lactic acid,1106,30,datg32
+64,isothreonic acid,1499,30,datg32
+65,isoleucine,356395,30,datg32
+66,isocitric acid,2097,30,datg32
+67,inositol-4-monophosphate,704,30,datg32
+68,inosine,341,30,datg32
+69,hydroxylamine,640,30,datg32
+70,hydroxycarbamate NIST,812,30,datg32
+71,homoserine,812,30,datg32
+72,histidine,125656,30,datg32
+73,hexose-6-phosphate,730,30,datg32
+74,heptadecanoic acid,1178,30,datg32
+75,guanosine,771,30,datg32
+76,guanine,678,30,datg32
+77,glycyl-proline,1465,30,datg32
+78,glycyl tyrosine,666,30,datg32
+79,glycolic acid,1120,30,datg32
+80,glycine,270522,30,datg32
+81,glycerol-alpha-phosphate,35598,30,datg32
+82,glycerol-3-galactoside,1122,30,datg32
+83,glycerol,1076235,30,datg32
+84,glyceric acid,1506,30,datg32
+85,glutamine,118305,30,datg32
+86,glutamic acid,757632,30,datg32
+87,glucose-6-phosphate,2204,30,datg32
+88,glucose-1-phosphate,2072,30,datg32
+89,glucose,5689,30,datg32
+90,gluconic acid,233,30,datg32
+91,galactose,4295,30,datg32
+92,galactinol,18389,30,datg32
+93,fumaric acid,13891,30,datg32
+94,fructose-6-phosphate,871,30,datg32
+95,fructose,218,30,datg32
+96,ethanol phosphate NIST,1590,30,datg32
+97,ergosterol,824,30,datg32
+98,cytidine-5-monophosphate,605,30,datg32
+99,cysteine-glycine,3030,30,datg32
+100,cysteine,3932,30,datg32
+101,conduritol-beta-epoxide,234,30,datg32
+102,citrulline,10868,30,datg32
+103,citric acid,182816,30,datg32
+104,butyrolactam NIST,1317,30,datg32
+105,"butane-2,3-diol NIST",1169,30,datg32
+106,biphenyl,705,30,datg32
+107,beta-mannosylglycerate,1058,30,datg32
+108,beta-glycerolphosphate,760,30,datg32
+109,aspartic acid,81728,30,datg32
+110,asparagine,22877,30,datg32
+111,arachidic acid,1519,30,datg32
+112,aminomalonate,6543,30,datg32
+113,alpha-ketoglutarate,953,30,datg32
+114,allothreonine,21571,30,datg32
+115,alanine-alanine,2762,30,datg32
+116,alanine,721849,30,datg32
+117,adrenaline,1378,30,datg32
+118,adenosine-5-monophosphate,24348,30,datg32
+119,adenosine,1655,30,datg32
+120,adenine,7153,30,datg32
+121,aconitic acid,451,30,datg32
+122,5-methoxytryptamine,1259,30,datg32
+123,5'-deoxy-5'-methylthioadenosine,470,30,datg32
+124,4-aminobutyric acid,2106,30,datg32
+125,3-phosphoglycerate,3972,30,datg32
+126,3-hydroxy-3-methylglutaric acid,396,30,datg32
+127,3-aminoisobutyric acid,229,30,datg32
+128,2-methylglyceric acid NIST,5356,30,datg32
+129,2-hydroxyglutaric acid,265,30,datg32
+130,"2,5-dihydroxypyrazine NIST",670,30,datg32
+0,xanthine,1203,30,datg32
+1,valine,391348,30,datg32
+2,uridine-5'-monophosphate,2410,30,datg32
+3,uridine,439,30,datg32
+4,urea,6357,30,datg32
+5,uracil,5812,30,datg32
+6,UDP-N-acetylglucosamine,558,30,datg32
+7,tyrosol,1464,30,datg32
+8,tyrosine,152909,30,datg32
+9,tryptophan,12810,30,datg32
+10,trehalose-6-phosphate,412,30,datg32
+11,trehalose,898355,30,datg32
+12,trans-4-hydroxyproline,13842,30,datg32
+13,thymine,364,30,datg32
+14,threonine,137064,30,datg32
+15,sulfuric acid,10866,30,datg32
+16,sucrose,1292,30,datg32
+17,succinic acid,19378,30,datg32
+18,stearic acid,177320,30,datg32
+19,spermidine,1908,30,datg32
+20,sorbitol,1035,30,datg32
+21,serine,157011,30,datg32
+22,saccharopine,18904,30,datg32
+23,ribonic acid,600,30,datg32
+24,ribitol,561,30,datg32
+25,pyruvic acid,432,30,datg32
+26,pyrophosphate ,29397,30,datg32
+27,putrescine,2268,30,datg32
+28,pseudo uridine,882,30,datg32
+29,"propane-1,3-diol NIST",382,30,datg32
+30,proline,574638,30,datg32
+31,pipecolinic acid,1611,30,datg32
+32,phosphogluconic acid,641,30,datg32
+33,phosphoenolpyruvate,468,30,datg32
+34,phosphate,12446,30,datg32
+35,phenylalanine,152084,30,datg32
+36,pentadecanoic acid,1623,30,datg32
+37,pelargonic acid,13482,30,datg32
+38,parabanic acid NIST,1525,30,datg32
+39,palmitoleic acid,2279,30,datg32
+40,palmitic acid,22318,30,datg32
+41,oxoproline,430464,30,datg32
+42,oxalic acid,827,30,datg32
+43,orotic acid,6833,30,datg32
+44,ornithine,203575,30,datg32
+45,oleic acid,662,30,datg32
+46,N-methylalanine,6823,30,datg32
+47,nicotinic acid,4553,30,datg32
+48,nicotinamide,1614,30,datg32
+49,n-epsilon-trimethyllysine,584,30,datg32
+50,N-carbamylglutamate,454,30,datg32
+51,myristic acid,741,30,datg32
+52,myo-inositol,9850,30,datg32
+53,methionine sulfoxide,49803,30,datg32
+54,methionine,558,30,datg32
+55,methanolphosphate,12856,30,datg32
+56,malic acid,9018,30,datg32
+57,maleimide,6075,30,datg32
+58,lysine,880195,30,datg32
+59,levoglucosan,715,30,datg32
+60,leucine,366173,30,datg32
+61,lauric acid,2527,30,datg32
+62,lactulose,448,30,datg32
+63,lactic acid,2289,30,datg32
+64,isothreonic acid,2006,30,datg32
+65,isoleucine,470498,30,datg32
+66,isocitric acid,1380,30,datg32
+67,inositol-4-monophosphate,461,30,datg32
+68,inosine,186,30,datg32
+69,hydroxylamine,9463,30,datg32
+70,hydroxycarbamate NIST,975,30,datg32
+71,homoserine,1050,30,datg32
+72,histidine,85704,30,datg32
+73,hexose-6-phosphate,392,30,datg32
+74,heptadecanoic acid,1431,30,datg32
+75,guanosine,1242,30,datg32
+76,guanine,888,30,datg32
+77,glycyl-proline,1623,30,datg32
+78,glycyl tyrosine,1177,30,datg32
+79,glycolic acid,1699,30,datg32
+80,glycine,157568,30,datg32
+81,glycerol-alpha-phosphate,22877,30,datg32
+82,glycerol-3-galactoside,650,30,datg32
+83,glycerol,771553,30,datg32
+84,glyceric acid,4071,30,datg32
+85,glutamine,93856,30,datg32
+86,glutamic acid,515840,30,datg32
+87,glucose-6-phosphate,1070,30,datg32
+88,glucose-1-phosphate,2066,30,datg32
+89,glucose,4144,30,datg32
+90,gluconic acid,179,30,datg32
+91,galactose,593,30,datg32
+92,galactinol,10818,30,datg32
+93,fumaric acid,9238,30,datg32
+94,fructose-6-phosphate,436,30,datg32
+95,fructose,281,30,datg32
+96,ethanol phosphate NIST,1313,30,datg32
+97,ergosterol,56,30,datg32
+98,cytidine-5-monophosphate,569,30,datg32
+99,cysteine-glycine,2309,30,datg32
+100,cysteine,1305,30,datg32
+101,conduritol-beta-epoxide,266,30,datg32
+102,citrulline,8687,30,datg32
+103,citric acid,97624,30,datg32
+104,butyrolactam NIST,2241,30,datg32
+105,"butane-2,3-diol NIST",1363,30,datg32
+106,biphenyl,527,30,datg32
+107,beta-mannosylglycerate,1015,30,datg32
+108,beta-glycerolphosphate,499,30,datg32
+109,aspartic acid,101405,30,datg32
+110,asparagine,21162,30,datg32
+111,arachidic acid,2549,30,datg32
+112,aminomalonate,3186,30,datg32
+113,alpha-ketoglutarate,549,30,datg32
+114,allothreonine,12748,30,datg32
+115,alanine-alanine,6428,30,datg32
+116,alanine,697553,30,datg32
+117,adrenaline,1819,30,datg32
+118,adenosine-5-monophosphate,13330,30,datg32
+119,adenosine,9441,30,datg32
+120,adenine,5035,30,datg32
+121,aconitic acid,512,30,datg32
+122,5-methoxytryptamine,1020,30,datg32
+123,5'-deoxy-5'-methylthioadenosine,311,30,datg32
+124,4-aminobutyric acid,1609,30,datg32
+125,3-phosphoglycerate,1740,30,datg32
+126,3-hydroxy-3-methylglutaric acid,408,30,datg32
+127,3-aminoisobutyric acid,577,30,datg32
+128,2-methylglyceric acid NIST,6262,30,datg32
+129,2-hydroxyglutaric acid,590,30,datg32
+130,"2,5-dihydroxypyrazine NIST",863,30,datg32
+0,xanthine,255,30,datg32
+1,valine,380947,30,datg32
+2,uridine-5'-monophosphate,3958,30,datg32
+3,uridine,430,30,datg32
+4,urea,17852,30,datg32
+5,uracil,4121,30,datg32
+6,UDP-N-acetylglucosamine,1076,30,datg32
+7,tyrosol,1432,30,datg32
+8,tyrosine,143143,30,datg32
+9,tryptophan,19670,30,datg32
+10,trehalose-6-phosphate,281,30,datg32
+11,trehalose,704304,30,datg32
+12,trans-4-hydroxyproline,3275,30,datg32
+13,thymine,427,30,datg32
+14,threonine,157469,30,datg32
+15,sulfuric acid,174,30,datg32
+16,sucrose,283,30,datg32
+17,succinic acid,21247,30,datg32
+18,stearic acid,191549,30,datg32
+19,spermidine,2453,30,datg32
+20,sorbitol,1191,30,datg32
+21,serine,190225,30,datg32
+22,saccharopine,25410,30,datg32
+23,ribonic acid,398,30,datg32
+24,ribitol,563,30,datg32
+25,pyruvic acid,551,30,datg32
+26,pyrophosphate ,169822,30,datg32
+27,putrescine,1378,30,datg32
+28,pseudo uridine,1416,30,datg32
+29,"propane-1,3-diol NIST",437,30,datg32
+30,proline,517261,30,datg32
+31,pipecolinic acid,10020,30,datg32
+32,phosphogluconic acid,1914,30,datg32
+33,phosphoenolpyruvate,2064,30,datg32
+34,phosphate,24095,30,datg32
+35,phenylalanine,119318,30,datg32
+36,pentadecanoic acid,1247,30,datg32
+37,pelargonic acid,17044,30,datg32
+38,parabanic acid NIST,1151,30,datg32
+39,palmitoleic acid,4804,30,datg32
+40,palmitic acid,27861,30,datg32
+41,oxoproline,259304,30,datg32
+42,oxalic acid,92,30,datg32
+43,orotic acid,10201,30,datg32
+44,ornithine,298534,30,datg32
+45,oleic acid,1091,30,datg32
+46,N-methylalanine,16509,30,datg32
+47,nicotinic acid,3506,30,datg32
+48,nicotinamide,2124,30,datg32
+49,n-epsilon-trimethyllysine,579,30,datg32
+50,N-carbamylglutamate,505,30,datg32
+51,myristic acid,1149,30,datg32
+52,myo-inositol,12087,30,datg32
+53,methionine sulfoxide,20137,30,datg32
+54,methionine,18961,30,datg32
+55,methanolphosphate,19795,30,datg32
+56,malic acid,11164,30,datg32
+57,maleimide,2693,30,datg32
+58,lysine,683282,30,datg32
+59,levoglucosan,699,30,datg32
+60,leucine,398024,30,datg32
+61,lauric acid,6006,30,datg32
+62,lactulose,492,30,datg32
+63,lactic acid,1434,30,datg32
+64,isothreonic acid,1175,30,datg32
+65,isoleucine,301266,30,datg32
+66,isocitric acid,365,30,datg32
+67,inositol-4-monophosphate,685,30,datg32
+68,inosine,86,30,datg32
+69,hydroxylamine,8407,30,datg32
+70,hydroxycarbamate NIST,927,30,datg32
+71,homoserine,751,30,datg32
+72,histidine,125786,30,datg32
+73,hexose-6-phosphate,925,30,datg32
+74,heptadecanoic acid,1459,30,datg32
+75,guanosine,693,30,datg32
+76,guanine,728,30,datg32
+77,glycyl-proline,1826,30,datg32
+78,glycyl tyrosine,777,30,datg32
+79,glycolic acid,2276,30,datg32
+80,glycine,152348,30,datg32
+81,glycerol-alpha-phosphate,26939,30,datg32
+82,glycerol-3-galactoside,1384,30,datg32
+83,glycerol,743167,30,datg32
+84,glyceric acid,1919,30,datg32
+85,glutamine,173866,30,datg32
+86,glutamic acid,796347,30,datg32
+87,glucose-6-phosphate,2717,30,datg32
+88,glucose-1-phosphate,2425,30,datg32
+89,glucose,4733,30,datg32
+90,gluconic acid,251,30,datg32
+91,galactose,3839,30,datg32
+92,galactinol,22848,30,datg32
+93,fumaric acid,11521,30,datg32
+94,fructose-6-phosphate,1122,30,datg32
+95,fructose,120,30,datg32
+96,ethanol phosphate NIST,1793,30,datg32
+97,ergosterol,746,30,datg32
+98,cytidine-5-monophosphate,653,30,datg32
+99,cysteine-glycine,1480,30,datg32
+100,cysteine,3979,30,datg32
+101,conduritol-beta-epoxide,304,30,datg32
+102,citrulline,11758,30,datg32
+103,citric acid,208332,30,datg32
+104,butyrolactam NIST,1193,30,datg32
+105,"butane-2,3-diol NIST",889,30,datg32
+106,biphenyl,832,30,datg32
+107,beta-mannosylglycerate,1548,30,datg32
+108,beta-glycerolphosphate,487,30,datg32
+109,aspartic acid,89419,30,datg32
+110,asparagine,23651,30,datg32
+111,arachidic acid,2701,30,datg32
+112,aminomalonate,4503,30,datg32
+113,alpha-ketoglutarate,705,30,datg32
+114,allothreonine,20816,30,datg32
+115,alanine-alanine,3556,30,datg32
+116,alanine,642033,30,datg32
+117,adrenaline,1724,30,datg32
+118,adenosine-5-monophosphate,27026,30,datg32
+119,adenosine,2428,30,datg32
+120,adenine,6043,30,datg32
+121,aconitic acid,477,30,datg32
+122,5-methoxytryptamine,1416,30,datg32
+123,5'-deoxy-5'-methylthioadenosine,620,30,datg32
+124,4-aminobutyric acid,2632,30,datg32
+125,3-phosphoglycerate,4628,30,datg32
+126,3-hydroxy-3-methylglutaric acid,391,30,datg32
+127,3-aminoisobutyric acid,263,30,datg32
+128,2-methylglyceric acid NIST,5635,30,datg32
+129,2-hydroxyglutaric acid,497,30,datg32
+130,"2,5-dihydroxypyrazine NIST",901,30,datg32
+0,xanthine,798,30,datg32
+1,valine,358180,30,datg32
+2,uridine-5'-monophosphate,1521,30,datg32
+3,uridine,351,30,datg32
+4,urea,4881,30,datg32
+5,uracil,5678,30,datg32
+6,UDP-N-acetylglucosamine,654,30,datg32
+7,tyrosol,1248,30,datg32
+8,tyrosine,153819,30,datg32
+9,tryptophan,13096,30,datg32
+10,trehalose-6-phosphate,426,30,datg32
+11,trehalose,949975,30,datg32
+12,trans-4-hydroxyproline,11420,30,datg32
+13,thymine,534,30,datg32
+14,threonine,136299,30,datg32
+15,sulfuric acid,6823,30,datg32
+16,sucrose,150,30,datg32
+17,succinic acid,18363,30,datg32
+18,stearic acid,204672,30,datg32
+19,spermidine,4599,30,datg32
+20,sorbitol,683,30,datg32
+21,serine,151785,30,datg32
+22,saccharopine,16314,30,datg32
+23,ribonic acid,418,30,datg32
+24,ribitol,415,30,datg32
+25,pyruvic acid,629,30,datg32
+26,pyrophosphate ,39329,30,datg32
+27,putrescine,2521,30,datg32
+28,pseudo uridine,1215,30,datg32
+29,"propane-1,3-diol NIST",465,30,datg32
+30,proline,426557,30,datg32
+31,pipecolinic acid,1871,30,datg32
+32,phosphogluconic acid,752,30,datg32
+33,phosphoenolpyruvate,640,30,datg32
+34,phosphate,9224,30,datg32
+35,phenylalanine,144842,30,datg32
+36,pentadecanoic acid,1367,30,datg32
+37,pelargonic acid,20910,30,datg32
+38,parabanic acid NIST,1661,30,datg32
+39,palmitoleic acid,5522,30,datg32
+40,palmitic acid,27496,30,datg32
+41,oxoproline,350927,30,datg32
+42,oxalic acid,1311,30,datg32
+43,orotic acid,6992,30,datg32
+44,ornithine,239773,30,datg32
+45,oleic acid,1730,30,datg32
+46,N-methylalanine,7727,30,datg32
+47,nicotinic acid,3451,30,datg32
+48,nicotinamide,1388,30,datg32
+49,n-epsilon-trimethyllysine,557,30,datg32
+50,N-carbamylglutamate,356,30,datg32
+51,myristic acid,1256,30,datg32
+52,myo-inositol,10663,30,datg32
+53,methionine sulfoxide,51676,30,datg32
+54,methionine,9608,30,datg32
+55,methanolphosphate,8435,30,datg32
+56,malic acid,6914,30,datg32
+57,maleimide,4932,30,datg32
+58,lysine,1068955,30,datg32
+59,levoglucosan,631,30,datg32
+60,leucine,390440,30,datg32
+61,lauric acid,4933,30,datg32
+62,lactulose,517,30,datg32
+63,lactic acid,1419,30,datg32
+64,isothreonic acid,2156,30,datg32
+65,isoleucine,446168,30,datg32
+66,isocitric acid,1851,30,datg32
+67,inositol-4-monophosphate,440,30,datg32
+68,inosine,411,30,datg32
+69,hydroxylamine,8936,30,datg32
+70,hydroxycarbamate NIST,798,30,datg32
+71,homoserine,904,30,datg32
+72,histidine,99562,30,datg32
+73,hexose-6-phosphate,745,30,datg32
+74,heptadecanoic acid,1682,30,datg32
+75,guanosine,1181,30,datg32
+76,guanine,922,30,datg32
+77,glycyl-proline,1407,30,datg32
+78,glycyl tyrosine,769,30,datg32
+79,glycolic acid,2358,30,datg32
+80,glycine,111411,30,datg32
+81,glycerol-alpha-phosphate,31855,30,datg32
+82,glycerol-3-galactoside,645,30,datg32
+83,glycerol,955663,30,datg32
+84,glyceric acid,3418,30,datg32
+85,glutamine,107823,30,datg32
+86,glutamic acid,466846,30,datg32
+87,glucose-6-phosphate,1281,30,datg32
+88,glucose-1-phosphate,1305,30,datg32
+89,glucose,7121,30,datg32
+90,gluconic acid,295,30,datg32
+91,galactose,5887,30,datg32
+92,galactinol,10906,30,datg32
+93,fumaric acid,8090,30,datg32
+94,fructose-6-phosphate,711,30,datg32
+95,fructose,213,30,datg32
+96,ethanol phosphate NIST,1320,30,datg32
+97,ergosterol,211,30,datg32
+98,cytidine-5-monophosphate,627,30,datg32
+99,cysteine-glycine,3310,30,datg32
+100,cysteine,1244,30,datg32
+101,conduritol-beta-epoxide,319,30,datg32
+102,citrulline,12160,30,datg32
+103,citric acid,105703,30,datg32
+104,butyrolactam NIST,1798,30,datg32
+105,"butane-2,3-diol NIST",1153,30,datg32
+106,biphenyl,547,30,datg32
+107,beta-mannosylglycerate,930,30,datg32
+108,beta-glycerolphosphate,505,30,datg32
+109,aspartic acid,94237,30,datg32
+110,asparagine,20052,30,datg32
+111,arachidic acid,3112,30,datg32
+112,aminomalonate,3459,30,datg32
+113,alpha-ketoglutarate,95,30,datg32
+114,allothreonine,10870,30,datg32
+115,alanine-alanine,3916,30,datg32
+116,alanine,515272,30,datg32
+117,adrenaline,2019,30,datg32
+118,adenosine-5-monophosphate,11698,30,datg32
+119,adenosine,10846,30,datg32
+120,adenine,5047,30,datg32
+121,aconitic acid,424,30,datg32
+122,5-methoxytryptamine,1043,30,datg32
+123,5'-deoxy-5'-methylthioadenosine,385,30,datg32
+124,4-aminobutyric acid,2019,30,datg32
+125,3-phosphoglycerate,1721,30,datg32
+126,3-hydroxy-3-methylglutaric acid,323,30,datg32
+127,3-aminoisobutyric acid,707,30,datg32
+128,2-methylglyceric acid NIST,5274,30,datg32
+129,2-hydroxyglutaric acid,425,30,datg32
+130,"2,5-dihydroxypyrazine NIST",1397,30,datg32
+0,xanthine,985,30,datg32
+1,valine,394310,30,datg32
+2,uridine-5'-monophosphate,3237,30,datg32
+3,uridine,283,30,datg32
+4,urea,14824,30,datg32
+5,uracil,6138,30,datg32
+6,UDP-N-acetylglucosamine,455,30,datg32
+7,tyrosol,1051,30,datg32
+8,tyrosine,138008,30,datg32
+9,tryptophan,23377,30,datg32
+10,trehalose-6-phosphate,561,30,datg32
+11,trehalose,977112,30,datg32
+12,trans-4-hydroxyproline,11000,30,datg32
+13,thymine,492,30,datg32
+14,threonine,95749,30,datg32
+15,sulfuric acid,3828,30,datg32
+16,sucrose,378,30,datg32
+17,succinic acid,30445,30,datg32
+18,stearic acid,183097,30,datg32
+19,spermidine,4596,30,datg32
+20,sorbitol,787,30,datg32
+21,serine,160463,30,datg32
+22,saccharopine,17860,30,datg32
+23,ribonic acid,472,30,datg32
+24,ribitol,718,30,datg32
+25,pyruvic acid,669,30,datg32
+26,pyrophosphate ,100519,30,datg32
+27,putrescine,1555,30,datg32
+28,pseudo uridine,1048,30,datg32
+29,"propane-1,3-diol NIST",558,30,datg32
+30,proline,557545,30,datg32
+31,pipecolinic acid,4238,30,datg32
+32,phosphogluconic acid,968,30,datg32
+33,phosphoenolpyruvate,985,30,datg32
+34,phosphate,25783,30,datg32
+35,phenylalanine,129575,30,datg32
+36,pentadecanoic acid,1990,30,datg32
+37,pelargonic acid,21079,30,datg32
+38,parabanic acid NIST,2440,30,datg32
+39,palmitoleic acid,7172,30,datg32
+40,palmitic acid,30029,30,datg32
+41,oxoproline,334297,30,datg32
+42,oxalic acid,406,30,datg32
+43,orotic acid,10281,30,datg32
+44,ornithine,265283,30,datg32
+45,oleic acid,2037,30,datg32
+46,N-methylalanine,11647,30,datg32
+47,nicotinic acid,3761,30,datg32
+48,nicotinamide,1833,30,datg32
+49,n-epsilon-trimethyllysine,732,30,datg32
+50,N-carbamylglutamate,614,30,datg32
+51,myristic acid,1154,30,datg32
+52,myo-inositol,8563,30,datg32
+53,methionine sulfoxide,26114,30,datg32
+54,methionine,18345,30,datg32
+55,methanolphosphate,11279,30,datg32
+56,malic acid,9572,30,datg32
+57,maleimide,3995,30,datg32
+58,lysine,799608,30,datg32
+59,levoglucosan,548,30,datg32
+60,leucine,520583,30,datg32
+61,lauric acid,4782,30,datg32
+62,lactulose,530,30,datg32
+63,lactic acid,1206,30,datg32
+64,isothreonic acid,1474,30,datg32
+65,isoleucine,308843,30,datg32
+66,isocitric acid,1744,30,datg32
+67,inositol-4-monophosphate,695,30,datg32
+68,inosine,378,30,datg32
+69,hydroxylamine,17157,30,datg32
+70,hydroxycarbamate NIST,1624,30,datg32
+71,homoserine,1196,30,datg32
+72,histidine,109375,30,datg32
+73,hexose-6-phosphate,666,30,datg32
+74,heptadecanoic acid,1249,30,datg32
+75,guanosine,919,30,datg32
+76,guanine,945,30,datg32
+77,glycyl-proline,1427,30,datg32
+78,glycyl tyrosine,891,30,datg32
+79,glycolic acid,1107,30,datg32
+80,glycine,116644,30,datg32
+81,glycerol-alpha-phosphate,46108,30,datg32
+82,glycerol-3-galactoside,1065,30,datg32
+83,glycerol,440839,30,datg32
+84,glyceric acid,1958,30,datg32
+85,glutamine,136330,30,datg32
+86,glutamic acid,624560,30,datg32
+87,glucose-6-phosphate,2150,30,datg32
+88,glucose-1-phosphate,2070,30,datg32
+89,glucose,3592,30,datg32
+90,gluconic acid,266,30,datg32
+91,galactose,426,30,datg32
+92,galactinol,16215,30,datg32
+93,fumaric acid,9972,30,datg32
+94,fructose-6-phosphate,1101,30,datg32
+95,fructose,291,30,datg32
+96,ethanol phosphate NIST,1553,30,datg32
+97,ergosterol,814,30,datg32
+98,cytidine-5-monophosphate,736,30,datg32
+99,cysteine-glycine,2605,30,datg32
+100,cysteine,2673,30,datg32
+101,conduritol-beta-epoxide,326,30,datg32
+102,citrulline,14856,30,datg32
+103,citric acid,127700,30,datg32
+104,butyrolactam NIST,1918,30,datg32
+105,"butane-2,3-diol NIST",785,30,datg32
+106,biphenyl,782,30,datg32
+107,beta-mannosylglycerate,1046,30,datg32
+108,beta-glycerolphosphate,779,30,datg32
+109,aspartic acid,94838,30,datg32
+110,asparagine,21201,30,datg32
+111,arachidic acid,2821,30,datg32
+112,aminomalonate,4937,30,datg32
+113,alpha-ketoglutarate,774,30,datg32
+114,allothreonine,16268,30,datg32
+115,alanine-alanine,3534,30,datg32
+116,alanine,818986,30,datg32
+117,adrenaline,1786,30,datg32
+118,adenosine-5-monophosphate,17860,30,datg32
+119,adenosine,4230,30,datg32
+120,adenine,4774,30,datg32
+121,aconitic acid,609,30,datg32
+122,5-methoxytryptamine,1158,30,datg32
+123,5'-deoxy-5'-methylthioadenosine,675,30,datg32
+124,4-aminobutyric acid,2498,30,datg32
+125,3-phosphoglycerate,1903,30,datg32
+126,3-hydroxy-3-methylglutaric acid,260,30,datg32
+127,3-aminoisobutyric acid,655,30,datg32
+128,2-methylglyceric acid NIST,4896,30,datg32
+129,2-hydroxyglutaric acid,590,30,datg32
+130,"2,5-dihydroxypyrazine NIST",1972,30,datg32
+0,xanthine,432,37,WT
+1,valine,355424,37,WT
+2,uridine-5'-monophosphate,1937,37,WT
+3,uridine,349,37,WT
+4,urea,11307,37,WT
+5,uracil,4138,37,WT
+6,UDP-N-acetylglucosamine,599,37,WT
+7,tyrosol,802,37,WT
+8,tyrosine,161248,37,WT
+9,tryptophan,22939,37,WT
+10,trehalose-6-phosphate,392,37,WT
+11,trehalose,615245,37,WT
+12,trans-4-hydroxyproline,8579,37,WT
+13,thymine,430,37,WT
+14,threonine,88473,37,WT
+15,sulfuric acid,570,37,WT
+16,sucrose,1971,37,WT
+17,succinic acid,11205,37,WT
+18,stearic acid,131880,37,WT
+19,spermidine,2868,37,WT
+20,sorbitol,547,37,WT
+21,serine,129415,37,WT
+22,saccharopine,20086,37,WT
+23,ribonic acid,342,37,WT
+24,ribitol,425,37,WT
+25,pyruvic acid,388,37,WT
+26,pyrophosphate ,96234,37,WT
+27,putrescine,1583,37,WT
+28,pseudo uridine,870,37,WT
+29,"propane-1,3-diol NIST",453,37,WT
+30,proline,397312,37,WT
+31,pipecolinic acid,3518,37,WT
+32,phosphogluconic acid,599,37,WT
+33,phosphoenolpyruvate,602,37,WT
+34,phosphate,30844,37,WT
+35,phenylalanine,125844,37,WT
+36,pentadecanoic acid,1473,37,WT
+37,pelargonic acid,13886,37,WT
+38,parabanic acid NIST,2614,37,WT
+39,palmitoleic acid,2271,37,WT
+40,palmitic acid,20917,37,WT
+41,oxoproline,271563,37,WT
+42,oxalic acid,261,37,WT
+43,orotic acid,911,37,WT
+44,ornithine,384576,37,WT
+45,oleic acid,403,37,WT
+46,N-methylalanine,5844,37,WT
+47,nicotinic acid,2500,37,WT
+48,nicotinamide,899,37,WT
+49,n-epsilon-trimethyllysine,794,37,WT
+50,N-carbamylglutamate,283,37,WT
+51,myristic acid,745,37,WT
+52,myo-inositol,11863,37,WT
+53,methionine sulfoxide,31087,37,WT
+54,methionine,15823,37,WT
+55,methanolphosphate,10119,37,WT
+56,malic acid,7326,37,WT
+57,maleimide,5437,37,WT
+58,lysine,1078054,37,WT
+59,levoglucosan,503,37,WT
+60,leucine,359656,37,WT
+61,lauric acid,3006,37,WT
+62,lactulose,288,37,WT
+63,lactic acid,1345,37,WT
+64,isothreonic acid,1379,37,WT
+65,isoleucine,397640,37,WT
+66,isocitric acid,1977,37,WT
+67,inositol-4-monophosphate,403,37,WT
+68,inosine,594,37,WT
+69,hydroxylamine,13164,37,WT
+70,hydroxycarbamate NIST,1220,37,WT
+71,homoserine,748,37,WT
+72,histidine,148821,37,WT
+73,hexose-6-phosphate,390,37,WT
+74,heptadecanoic acid,771,37,WT
+75,guanosine,819,37,WT
+76,guanine,762,37,WT
+77,glycyl-proline,2083,37,WT
+78,glycyl tyrosine,780,37,WT
+79,glycolic acid,980,37,WT
+80,glycine,109021,37,WT
+81,glycerol-alpha-phosphate,40783,37,WT
+82,glycerol-3-galactoside,533,37,WT
+83,glycerol,1224622,37,WT
+84,glyceric acid,1525,37,WT
+85,glutamine,86265,37,WT
+86,glutamic acid,563112,37,WT
+87,glucose-6-phosphate,586,37,WT
+88,glucose-1-phosphate,969,37,WT
+89,glucose,2035,37,WT
+90,gluconic acid,214,37,WT
+91,galactose,1333,37,WT
+92,galactinol,7989,37,WT
+93,fumaric acid,7060,37,WT
+94,fructose-6-phosphate,491,37,WT
+95,fructose,193,37,WT
+96,ethanol phosphate NIST,1499,37,WT
+97,ergosterol,902,37,WT
+98,cytidine-5-monophosphate,399,37,WT
+99,cysteine-glycine,1186,37,WT
+100,cysteine,1468,37,WT
+101,conduritol-beta-epoxide,258,37,WT
+102,citrulline,11089,37,WT
+103,citric acid,170836,37,WT
+104,butyrolactam NIST,2193,37,WT
+105,"butane-2,3-diol NIST",578,37,WT
+106,biphenyl,1022,37,WT
+107,beta-mannosylglycerate,1413,37,WT
+108,beta-glycerolphosphate,240,37,WT
+109,aspartic acid,91908,37,WT
+110,asparagine,19736,37,WT
+111,arachidic acid,1822,37,WT
+112,aminomalonate,4060,37,WT
+113,alpha-ketoglutarate,313,37,WT
+114,allothreonine,4951,37,WT
+115,alanine-alanine,2647,37,WT
+116,alanine,572752,37,WT
+117,adrenaline,1516,37,WT
+118,adenosine-5-monophosphate,12512,37,WT
+119,adenosine,3244,37,WT
+120,adenine,4795,37,WT
+121,aconitic acid,632,37,WT
+122,5-methoxytryptamine,1320,37,WT
+123,5'-deoxy-5'-methylthioadenosine,502,37,WT
+124,4-aminobutyric acid,3864,37,WT
+125,3-phosphoglycerate,1266,37,WT
+126,3-hydroxy-3-methylglutaric acid,322,37,WT
+127,3-aminoisobutyric acid,260,37,WT
+128,2-methylglyceric acid NIST,3867,37,WT
+129,2-hydroxyglutaric acid,569,37,WT
+130,"2,5-dihydroxypyrazine NIST",1131,37,WT
+0,xanthine,1046,37,WT
+1,valine,307624,37,WT
+2,uridine-5'-monophosphate,2557,37,WT
+3,uridine,369,37,WT
+4,urea,13885,37,WT
+5,uracil,3599,37,WT
+6,UDP-N-acetylglucosamine,1022,37,WT
+7,tyrosol,2785,37,WT
+8,tyrosine,162292,37,WT
+9,tryptophan,9720,37,WT
+10,trehalose-6-phosphate,459,37,WT
+11,trehalose,712302,37,WT
+12,trans-4-hydroxyproline,7995,37,WT
+13,thymine,372,37,WT
+14,threonine,94940,37,WT
+15,sulfuric acid,636,37,WT
+16,sucrose,199,37,WT
+17,succinic acid,8963,37,WT
+18,stearic acid,154388,37,WT
+19,spermidine,3684,37,WT
+20,sorbitol,388,37,WT
+21,serine,119914,37,WT
+22,saccharopine,35167,37,WT
+23,ribonic acid,398,37,WT
+24,ribitol,404,37,WT
+25,pyruvic acid,248,37,WT
+26,pyrophosphate ,130797,37,WT
+27,putrescine,1862,37,WT
+28,pseudo uridine,878,37,WT
+29,"propane-1,3-diol NIST",273,37,WT
+30,proline,396128,37,WT
+31,pipecolinic acid,2592,37,WT
+32,phosphogluconic acid,590,37,WT
+33,phosphoenolpyruvate,760,37,WT
+34,phosphate,35126,37,WT
+35,phenylalanine,112169,37,WT
+36,pentadecanoic acid,1382,37,WT
+37,pelargonic acid,11560,37,WT
+38,parabanic acid NIST,1844,37,WT
+39,palmitoleic acid,2211,37,WT
+40,palmitic acid,22945,37,WT
+41,oxoproline,250746,37,WT
+42,oxalic acid,182,37,WT
+43,orotic acid,452,37,WT
+44,ornithine,357019,37,WT
+45,oleic acid,626,37,WT
+46,N-methylalanine,4822,37,WT
+47,nicotinic acid,2770,37,WT
+48,nicotinamide,1029,37,WT
+49,n-epsilon-trimethyllysine,788,37,WT
+50,N-carbamylglutamate,249,37,WT
+51,myristic acid,990,37,WT
+52,myo-inositol,17431,37,WT
+53,methionine sulfoxide,42976,37,WT
+54,methionine,7201,37,WT
+55,methanolphosphate,17641,37,WT
+56,malic acid,12507,37,WT
+57,maleimide,3154,37,WT
+58,lysine,1010001,37,WT
+59,levoglucosan,631,37,WT
+60,leucine,313493,37,WT
+61,lauric acid,5286,37,WT
+62,lactulose,399,37,WT
+63,lactic acid,724,37,WT
+64,isothreonic acid,1635,37,WT
+65,isoleucine,372497,37,WT
+66,isocitric acid,3840,37,WT
+67,inositol-4-monophosphate,94,37,WT
+68,inosine,516,37,WT
+69,hydroxylamine,7171,37,WT
+70,hydroxycarbamate NIST,1051,37,WT
+71,homoserine,879,37,WT
+72,histidine,153222,37,WT
+73,hexose-6-phosphate,277,37,WT
+74,heptadecanoic acid,1223,37,WT
+75,guanosine,944,37,WT
+76,guanine,627,37,WT
+77,glycyl-proline,2255,37,WT
+78,glycyl tyrosine,852,37,WT
+79,glycolic acid,1017,37,WT
+80,glycine,112754,37,WT
+81,glycerol-alpha-phosphate,59581,37,WT
+82,glycerol-3-galactoside,579,37,WT
+83,glycerol,991168,37,WT
+84,glyceric acid,1460,37,WT
+85,glutamine,148312,37,WT
+86,glutamic acid,633424,37,WT
+87,glucose-6-phosphate,117,37,WT
+88,glucose-1-phosphate,1307,37,WT
+89,glucose,6947,37,WT
+90,gluconic acid,201,37,WT
+91,galactose,5552,37,WT
+92,galactinol,10229,37,WT
+93,fumaric acid,10898,37,WT
+94,fructose-6-phosphate,331,37,WT
+95,fructose,115,37,WT
+96,ethanol phosphate NIST,1621,37,WT
+97,ergosterol,1242,37,WT
+98,cytidine-5-monophosphate,381,37,WT
+99,cysteine-glycine,1571,37,WT
+100,cysteine,1670,37,WT
+101,conduritol-beta-epoxide,252,37,WT
+102,citrulline,11404,37,WT
+103,citric acid,347266,37,WT
+104,butyrolactam NIST,1484,37,WT
+105,"butane-2,3-diol NIST",884,37,WT
+106,biphenyl,948,37,WT
+107,beta-mannosylglycerate,2276,37,WT
+108,beta-glycerolphosphate,696,37,WT
+109,aspartic acid,75102,37,WT
+110,asparagine,19296,37,WT
+111,arachidic acid,1618,37,WT
+112,aminomalonate,6336,37,WT
+113,alpha-ketoglutarate,1154,37,WT
+114,allothreonine,6590,37,WT
+115,alanine-alanine,2514,37,WT
+116,alanine,536571,37,WT
+117,adrenaline,1296,37,WT
+118,adenosine-5-monophosphate,14902,37,WT
+119,adenosine,4163,37,WT
+120,adenine,7403,37,WT
+121,aconitic acid,997,37,WT
+122,5-methoxytryptamine,1602,37,WT
+123,5'-deoxy-5'-methylthioadenosine,483,37,WT
+124,4-aminobutyric acid,2759,37,WT
+125,3-phosphoglycerate,1696,37,WT
+126,3-hydroxy-3-methylglutaric acid,229,37,WT
+127,3-aminoisobutyric acid,77,37,WT
+128,2-methylglyceric acid NIST,3733,37,WT
+129,2-hydroxyglutaric acid,741,37,WT
+130,"2,5-dihydroxypyrazine NIST",1001,37,WT
+0,xanthine,1429,37,WT
+1,valine,405760,37,WT
+2,uridine-5'-monophosphate,902,37,WT
+3,uridine,696,37,WT
+4,urea,9182,37,WT
+5,uracil,4757,37,WT
+6,UDP-N-acetylglucosamine,337,37,WT
+7,tyrosol,1231,37,WT
+8,tyrosine,194535,37,WT
+9,tryptophan,15927,37,WT
+10,trehalose-6-phosphate,253,37,WT
+11,trehalose,575954,37,WT
+12,trans-4-hydroxyproline,12469,37,WT
+13,thymine,257,37,WT
+14,threonine,99223,37,WT
+15,sulfuric acid,828,37,WT
+16,sucrose,323,37,WT
+17,succinic acid,16170,37,WT
+18,stearic acid,150380,37,WT
+19,spermidine,4803,37,WT
+20,sorbitol,447,37,WT
+21,serine,143275,37,WT
+22,saccharopine,11998,37,WT
+23,ribonic acid,513,37,WT
+24,ribitol,565,37,WT
+25,pyruvic acid,505,37,WT
+26,pyrophosphate ,17026,37,WT
+27,putrescine,3029,37,WT
+28,pseudo uridine,511,37,WT
+29,"propane-1,3-diol NIST",436,37,WT
+30,proline,306544,37,WT
+31,pipecolinic acid,3221,37,WT
+32,phosphogluconic acid,603,37,WT
+33,phosphoenolpyruvate,297,37,WT
+34,phosphate,15622,37,WT
+35,phenylalanine,175825,37,WT
+36,pentadecanoic acid,1683,37,WT
+37,pelargonic acid,14272,37,WT
+38,parabanic acid NIST,2200,37,WT
+39,palmitoleic acid,2818,37,WT
+40,palmitic acid,21861,37,WT
+41,oxoproline,381414,37,WT
+42,oxalic acid,151,37,WT
+43,orotic acid,1058,37,WT
+44,ornithine,358051,37,WT
+45,oleic acid,795,37,WT
+46,N-methylalanine,3354,37,WT
+47,nicotinic acid,6151,37,WT
+48,nicotinamide,761,37,WT
+49,n-epsilon-trimethyllysine,512,37,WT
+50,N-carbamylglutamate,426,37,WT
+51,myristic acid,1143,37,WT
+52,myo-inositol,9603,37,WT
+53,methionine sulfoxide,61838,37,WT
+54,methionine,9589,37,WT
+55,methanolphosphate,6489,37,WT
+56,malic acid,4812,37,WT
+57,maleimide,10028,37,WT
+58,lysine,853355,37,WT
+59,levoglucosan,569,37,WT
+60,leucine,366268,37,WT
+61,lauric acid,2849,37,WT
+62,lactulose,550,37,WT
+63,lactic acid,2597,37,WT
+64,isothreonic acid,3033,37,WT
+65,isoleucine,501990,37,WT
+66,isocitric acid,1109,37,WT
+67,inositol-4-monophosphate,349,37,WT
+68,inosine,534,37,WT
+69,hydroxylamine,13594,37,WT
+70,hydroxycarbamate NIST,984,37,WT
+71,homoserine,1266,37,WT
+72,histidine,118967,37,WT
+73,hexose-6-phosphate,261,37,WT
+74,heptadecanoic acid,1262,37,WT
+75,guanosine,1673,37,WT
+76,guanine,1066,37,WT
+77,glycyl-proline,3169,37,WT
+78,glycyl tyrosine,856,37,WT
+79,glycolic acid,1945,37,WT
+80,glycine,110247,37,WT
+81,glycerol-alpha-phosphate,29519,37,WT
+82,glycerol-3-galactoside,311,37,WT
+83,glycerol,1272143,37,WT
+84,glyceric acid,6024,37,WT
+85,glutamine,45023,37,WT
+86,glutamic acid,459445,37,WT
+87,glucose-6-phosphate,343,37,WT
+88,glucose-1-phosphate,734,37,WT
+89,glucose,22354,37,WT
+90,gluconic acid,287,37,WT
+91,galactose,19207,37,WT
+92,galactinol,6488,37,WT
+93,fumaric acid,7223,37,WT
+94,fructose-6-phosphate,331,37,WT
+95,fructose,134,37,WT
+96,ethanol phosphate NIST,1164,37,WT
+97,ergosterol,315,37,WT
+98,cytidine-5-monophosphate,387,37,WT
+99,cysteine-glycine,1456,37,WT
+100,cysteine,1409,37,WT
+101,conduritol-beta-epoxide,262,37,WT
+102,citrulline,10384,37,WT
+103,citric acid,71130,37,WT
+104,butyrolactam NIST,2342,37,WT
+105,"butane-2,3-diol NIST",1324,37,WT
+106,biphenyl,847,37,WT
+107,beta-mannosylglycerate,1052,37,WT
+108,beta-glycerolphosphate,531,37,WT
+109,aspartic acid,123104,37,WT
+110,asparagine,23202,37,WT
+111,arachidic acid,2673,37,WT
+112,aminomalonate,3000,37,WT
+113,alpha-ketoglutarate,294,37,WT
+114,allothreonine,534,37,WT
+115,alanine-alanine,3235,37,WT
+116,alanine,788818,37,WT
+117,adrenaline,2391,37,WT
+118,adenosine-5-monophosphate,8883,37,WT
+119,adenosine,10995,37,WT
+120,adenine,3621,37,WT
+121,aconitic acid,326,37,WT
+122,5-methoxytryptamine,1262,37,WT
+123,5'-deoxy-5'-methylthioadenosine,265,37,WT
+124,4-aminobutyric acid,1414,37,WT
+125,3-phosphoglycerate,422,37,WT
+126,3-hydroxy-3-methylglutaric acid,295,37,WT
+127,3-aminoisobutyric acid,274,37,WT
+128,2-methylglyceric acid NIST,8278,37,WT
+129,2-hydroxyglutaric acid,640,37,WT
+130,"2,5-dihydroxypyrazine NIST",1194,37,WT
+0,xanthine,957,37,WT
+1,valine,323765,37,WT
+2,uridine-5'-monophosphate,1506,37,WT
+3,uridine,405,37,WT
+4,urea,9582,37,WT
+5,uracil,4152,37,WT
+6,UDP-N-acetylglucosamine,307,37,WT
+7,tyrosol,879,37,WT
+8,tyrosine,159977,37,WT
+9,tryptophan,10897,37,WT
+10,trehalose-6-phosphate,516,37,WT
+11,trehalose,813176,37,WT
+12,trans-4-hydroxyproline,7586,37,WT
+13,thymine,431,37,WT
+14,threonine,72709,37,WT
+15,sulfuric acid,2387,37,WT
+16,sucrose,146,37,WT
+17,succinic acid,6947,37,WT
+18,stearic acid,176168,37,WT
+19,spermidine,1887,37,WT
+20,sorbitol,711,37,WT
+21,serine,108044,37,WT
+22,saccharopine,22207,37,WT
+23,ribonic acid,293,37,WT
+24,ribitol,413,37,WT
+25,pyruvic acid,307,37,WT
+26,pyrophosphate ,34497,37,WT
+27,putrescine,1782,37,WT
+28,pseudo uridine,989,37,WT
+29,"propane-1,3-diol NIST",210,37,WT
+30,proline,296399,37,WT
+31,pipecolinic acid,1935,37,WT
+32,phosphogluconic acid,469,37,WT
+33,phosphoenolpyruvate,530,37,WT
+34,phosphate,26338,37,WT
+35,phenylalanine,118481,37,WT
+36,pentadecanoic acid,1186,37,WT
+37,pelargonic acid,18248,37,WT
+38,parabanic acid NIST,1313,37,WT
+39,palmitoleic acid,3349,37,WT
+40,palmitic acid,25069,37,WT
+41,oxoproline,235798,37,WT
+42,oxalic acid,203,37,WT
+43,orotic acid,1222,37,WT
+44,ornithine,315399,37,WT
+45,oleic acid,354,37,WT
+46,N-methylalanine,3549,37,WT
+47,nicotinic acid,2711,37,WT
+48,nicotinamide,885,37,WT
+49,n-epsilon-trimethyllysine,636,37,WT
+50,N-carbamylglutamate,402,37,WT
+51,myristic acid,985,37,WT
+52,myo-inositol,11198,37,WT
+53,methionine sulfoxide,49537,37,WT
+54,methionine,2777,37,WT
+55,methanolphosphate,11351,37,WT
+56,malic acid,6354,37,WT
+57,maleimide,4736,37,WT
+58,lysine,1205338,37,WT
+59,levoglucosan,248,37,WT
+60,leucine,480984,37,WT
+61,lauric acid,6212,37,WT
+62,lactulose,743,37,WT
+63,lactic acid,1157,37,WT
+64,isothreonic acid,1818,37,WT
+65,isoleucine,291791,37,WT
+66,isocitric acid,1722,37,WT
+67,inositol-4-monophosphate,207,37,WT
+68,inosine,382,37,WT
+69,hydroxylamine,5713,37,WT
+70,hydroxycarbamate NIST,575,37,WT
+71,homoserine,801,37,WT
+72,histidine,151498,37,WT
+73,hexose-6-phosphate,308,37,WT
+74,heptadecanoic acid,1456,37,WT
+75,guanosine,361,37,WT
+76,guanine,749,37,WT
+77,glycyl-proline,1761,37,WT
+78,glycyl tyrosine,701,37,WT
+79,glycolic acid,901,37,WT
+80,glycine,136952,37,WT
+81,glycerol-alpha-phosphate,36888,37,WT
+82,glycerol-3-galactoside,396,37,WT
+83,glycerol,1244014,37,WT
+84,glyceric acid,1836,37,WT
+85,glutamine,83379,37,WT
+86,glutamic acid,425993,37,WT
+87,glucose-6-phosphate,443,37,WT
+88,glucose-1-phosphate,1186,37,WT
+89,glucose,2216,37,WT
+90,gluconic acid,251,37,WT
+91,galactose,888,37,WT
+92,galactinol,5827,37,WT
+93,fumaric acid,7105,37,WT
+94,fructose-6-phosphate,403,37,WT
+95,fructose,200,37,WT
+96,ethanol phosphate NIST,1349,37,WT
+97,ergosterol,511,37,WT
+98,cytidine-5-monophosphate,380,37,WT
+99,cysteine-glycine,1432,37,WT
+100,cysteine,465,37,WT
+101,conduritol-beta-epoxide,285,37,WT
+102,citrulline,6473,37,WT
+103,citric acid,152171,37,WT
+104,butyrolactam NIST,1521,37,WT
+105,"butane-2,3-diol NIST",743,37,WT
+106,biphenyl,550,37,WT
+107,beta-mannosylglycerate,1242,37,WT
+108,beta-glycerolphosphate,415,37,WT
+109,aspartic acid,76969,37,WT
+110,asparagine,17026,37,WT
+111,arachidic acid,2338,37,WT
+112,aminomalonate,773,37,WT
+113,alpha-ketoglutarate,248,37,WT
+114,allothreonine,2444,37,WT
+115,alanine-alanine,3029,37,WT
+116,alanine,700315,37,WT
+117,adrenaline,1661,37,WT
+118,adenosine-5-monophosphate,9870,37,WT
+119,adenosine,4991,37,WT
+120,adenine,4414,37,WT
+121,aconitic acid,417,37,WT
+122,5-methoxytryptamine,1092,37,WT
+123,5'-deoxy-5'-methylthioadenosine,363,37,WT
+124,4-aminobutyric acid,2006,37,WT
+125,3-phosphoglycerate,725,37,WT
+126,3-hydroxy-3-methylglutaric acid,285,37,WT
+127,3-aminoisobutyric acid,328,37,WT
+128,2-methylglyceric acid NIST,3147,37,WT
+129,2-hydroxyglutaric acid,684,37,WT
+130,"2,5-dihydroxypyrazine NIST",1310,37,WT
+0,xanthine,965,37,WT
+1,valine,315981,37,WT
+2,uridine-5'-monophosphate,2258,37,WT
+3,uridine,314,37,WT
+4,urea,25832,37,WT
+5,uracil,3565,37,WT
+6,UDP-N-acetylglucosamine,785,37,WT
+7,tyrosol,4466,37,WT
+8,tyrosine,146861,37,WT
+9,tryptophan,16863,37,WT
+10,trehalose-6-phosphate,109,37,WT
+11,trehalose,642044,37,WT
+12,trans-4-hydroxyproline,3270,37,WT
+13,thymine,323,37,WT
+14,threonine,96840,37,WT
+15,sulfuric acid,137,37,WT
+16,sucrose,34,37,WT
+17,succinic acid,9543,37,WT
+18,stearic acid,76304,37,WT
+19,spermidine,5299,37,WT
+20,sorbitol,573,37,WT
+21,serine,122000,37,WT
+22,saccharopine,33544,37,WT
+23,ribonic acid,271,37,WT
+24,ribitol,439,37,WT
+25,pyruvic acid,249,37,WT
+26,pyrophosphate ,115096,37,WT
+27,putrescine,1198,37,WT
+28,pseudo uridine,845,37,WT
+29,"propane-1,3-diol NIST",296,37,WT
+30,proline,555885,37,WT
+31,pipecolinic acid,3626,37,WT
+32,phosphogluconic acid,549,37,WT
+33,phosphoenolpyruvate,562,37,WT
+34,phosphate,12410,37,WT
+35,phenylalanine,101471,37,WT
+36,pentadecanoic acid,1275,37,WT
+37,pelargonic acid,13407,37,WT
+38,parabanic acid NIST,1032,37,WT
+39,palmitoleic acid,2355,37,WT
+40,palmitic acid,13206,37,WT
+41,oxoproline,233086,37,WT
+42,oxalic acid,240,37,WT
+43,orotic acid,512,37,WT
+44,ornithine,425966,37,WT
+45,oleic acid,727,37,WT
+46,N-methylalanine,7611,37,WT
+47,nicotinic acid,2832,37,WT
+48,nicotinamide,925,37,WT
+49,n-epsilon-trimethyllysine,851,37,WT
+50,N-carbamylglutamate,356,37,WT
+51,myristic acid,747,37,WT
+52,myo-inositol,15857,37,WT
+53,methionine sulfoxide,24355,37,WT
+54,methionine,14701,37,WT
+55,methanolphosphate,13757,37,WT
+56,malic acid,14349,37,WT
+57,maleimide,2115,37,WT
+58,lysine,1085260,37,WT
+59,levoglucosan,643,37,WT
+60,leucine,315021,37,WT
+61,lauric acid,3827,37,WT
+62,lactulose,203,37,WT
+63,lactic acid,678,37,WT
+64,isothreonic acid,950,37,WT
+65,isoleucine,367887,37,WT
+66,isocitric acid,2997,37,WT
+67,inositol-4-monophosphate,146,37,WT
+68,inosine,270,37,WT
+69,hydroxylamine,5735,37,WT
+70,hydroxycarbamate NIST,715,37,WT
+71,homoserine,844,37,WT
+72,histidine,18840,37,WT
+73,hexose-6-phosphate,230,37,WT
+74,heptadecanoic acid,738,37,WT
+75,guanosine,687,37,WT
+76,guanine,670,37,WT
+77,glycyl-proline,1520,37,WT
+78,glycyl tyrosine,740,37,WT
+79,glycolic acid,616,37,WT
+80,glycine,161150,37,WT
+81,glycerol-alpha-phosphate,50787,37,WT
+82,glycerol-3-galactoside,513,37,WT
+83,glycerol,995706,37,WT
+84,glyceric acid,1078,37,WT
+85,glutamine,142595,37,WT
+86,glutamic acid,706258,37,WT
+87,glucose-6-phosphate,540,37,WT
+88,glucose-1-phosphate,1069,37,WT
+89,glucose,4624,37,WT
+90,gluconic acid,212,37,WT
+91,galactose,4085,37,WT
+92,galactinol,12147,37,WT
+93,fumaric acid,13073,37,WT
+94,fructose-6-phosphate,490,37,WT
+95,fructose,120,37,WT
+96,ethanol phosphate NIST,1850,37,WT
+97,ergosterol,778,37,WT
+98,cytidine-5-monophosphate,266,37,WT
+99,cysteine-glycine,2206,37,WT
+100,cysteine,2477,37,WT
+101,conduritol-beta-epoxide,283,37,WT
+102,citrulline,11463,37,WT
+103,citric acid,269678,37,WT
+104,butyrolactam NIST,1029,37,WT
+105,"butane-2,3-diol NIST",529,37,WT
+106,biphenyl,1232,37,WT
+107,beta-mannosylglycerate,2999,37,WT
+108,beta-glycerolphosphate,381,37,WT
+109,aspartic acid,72400,37,WT
+110,asparagine,21083,37,WT
+111,arachidic acid,940,37,WT
+112,aminomalonate,5213,37,WT
+113,alpha-ketoglutarate,1154,37,WT
+114,allothreonine,3041,37,WT
+115,alanine-alanine,1476,37,WT
+116,alanine,577375,37,WT
+117,adrenaline,1145,37,WT
+118,adenosine-5-monophosphate,12217,37,WT
+119,adenosine,2455,37,WT
+120,adenine,8456,37,WT
+121,aconitic acid,784,37,WT
+122,5-methoxytryptamine,1823,37,WT
+123,5'-deoxy-5'-methylthioadenosine,792,37,WT
+124,4-aminobutyric acid,2358,37,WT
+125,3-phosphoglycerate,1317,37,WT
+126,3-hydroxy-3-methylglutaric acid,206,37,WT
+127,3-aminoisobutyric acid,178,37,WT
+128,2-methylglyceric acid NIST,4152,37,WT
+129,2-hydroxyglutaric acid,605,37,WT
+130,"2,5-dihydroxypyrazine NIST",1555,37,WT
+0,xanthine,1339,37,datg32
+1,valine,377864,37,datg32
+2,uridine-5'-monophosphate,2892,37,datg32
+3,uridine,369,37,datg32
+4,urea,11266,37,datg32
+5,uracil,4607,37,datg32
+6,UDP-N-acetylglucosamine,956,37,datg32
+7,tyrosol,1987,37,datg32
+8,tyrosine,173048,37,datg32
+9,tryptophan,10142,37,datg32
+10,trehalose-6-phosphate,538,37,datg32
+11,trehalose,1214480,37,datg32
+12,trans-4-hydroxyproline,4393,37,datg32
+13,thymine,447,37,datg32
+14,threonine,108524,37,datg32
+15,sulfuric acid,2488,37,datg32
+16,sucrose,115,37,datg32
+17,succinic acid,18433,37,datg32
+18,stearic acid,152272,37,datg32
+19,spermidine,1833,37,datg32
+20,sorbitol,1098,37,datg32
+21,serine,136240,37,datg32
+22,saccharopine,29051,37,datg32
+23,ribonic acid,400,37,datg32
+24,ribitol,671,37,datg32
+25,pyruvic acid,348,37,datg32
+26,pyrophosphate ,96210,37,datg32
+27,putrescine,2032,37,datg32
+28,pseudo uridine,828,37,datg32
+29,"propane-1,3-diol NIST",353,37,datg32
+30,proline,306294,37,datg32
+31,pipecolinic acid,3048,37,datg32
+32,phosphogluconic acid,896,37,datg32
+33,phosphoenolpyruvate,998,37,datg32
+34,phosphate,30722,37,datg32
+35,phenylalanine,124657,37,datg32
+36,pentadecanoic acid,1427,37,datg32
+37,pelargonic acid,12933,37,datg32
+38,parabanic acid NIST,2189,37,datg32
+39,palmitoleic acid,3240,37,datg32
+40,palmitic acid,25519,37,datg32
+41,oxoproline,275945,37,datg32
+42,oxalic acid,86,37,datg32
+43,orotic acid,1245,37,datg32
+44,ornithine,327767,37,datg32
+45,oleic acid,927,37,datg32
+46,N-methylalanine,8526,37,datg32
+47,nicotinic acid,3069,37,datg32
+48,nicotinamide,1418,37,datg32
+49,n-epsilon-trimethyllysine,904,37,datg32
+50,N-carbamylglutamate,504,37,datg32
+51,myristic acid,880,37,datg32
+52,myo-inositol,21186,37,datg32
+53,methionine sulfoxide,45841,37,datg32
+54,methionine,7602,37,datg32
+55,methanolphosphate,22481,37,datg32
+56,malic acid,12991,37,datg32
+57,maleimide,4494,37,datg32
+58,lysine,1131301,37,datg32
+59,levoglucosan,641,37,datg32
+60,leucine,401030,37,datg32
+61,lauric acid,3397,37,datg32
+62,lactulose,379,37,datg32
+63,lactic acid,850,37,datg32
+64,isothreonic acid,1619,37,datg32
+65,isoleucine,340170,37,datg32
+66,isocitric acid,3311,37,datg32
+67,inositol-4-monophosphate,520,37,datg32
+68,inosine,196,37,datg32
+69,hydroxylamine,11026,37,datg32
+70,hydroxycarbamate NIST,1314,37,datg32
+71,homoserine,810,37,datg32
+72,histidine,170059,37,datg32
+73,hexose-6-phosphate,334,37,datg32
+74,heptadecanoic acid,1245,37,datg32
+75,guanosine,1127,37,datg32
+76,guanine,614,37,datg32
+77,glycyl-proline,2598,37,datg32
+78,glycyl tyrosine,1121,37,datg32
+79,glycolic acid,721,37,datg32
+80,glycine,142171,37,datg32
+81,glycerol-alpha-phosphate,67283,37,datg32
+82,glycerol-3-galactoside,922,37,datg32
+83,glycerol,262760,37,datg32
+84,glyceric acid,2140,37,datg32
+85,glutamine,101377,37,datg32
+86,glutamic acid,536430,37,datg32
+87,glucose-6-phosphate,1054,37,datg32
+88,glucose-1-phosphate,1216,37,datg32
+89,glucose,8598,37,datg32
+90,gluconic acid,430,37,datg32
+91,galactose,6776,37,datg32
+92,galactinol,11902,37,datg32
+93,fumaric acid,12848,37,datg32
+94,fructose-6-phosphate,637,37,datg32
+95,fructose,210,37,datg32
+96,ethanol phosphate NIST,1151,37,datg32
+97,ergosterol,815,37,datg32
+98,cytidine-5-monophosphate,488,37,datg32
+99,cysteine-glycine,2598,37,datg32
+100,cysteine,1756,37,datg32
+101,conduritol-beta-epoxide,165,37,datg32
+102,citrulline,11078,37,datg32
+103,citric acid,280774,37,datg32
+104,butyrolactam NIST,2137,37,datg32
+105,"butane-2,3-diol NIST",1286,37,datg32
+106,biphenyl,987,37,datg32
+107,beta-mannosylglycerate,1464,37,datg32
+108,beta-glycerolphosphate,582,37,datg32
+109,aspartic acid,82362,37,datg32
+110,asparagine,19340,37,datg32
+111,arachidic acid,2325,37,datg32
+112,aminomalonate,4957,37,datg32
+113,alpha-ketoglutarate,620,37,datg32
+114,allothreonine,6824,37,datg32
+115,alanine-alanine,2509,37,datg32
+116,alanine,704948,37,datg32
+117,adrenaline,2080,37,datg32
+118,adenosine-5-monophosphate,17507,37,datg32
+119,adenosine,6211,37,datg32
+120,adenine,7508,37,datg32
+121,aconitic acid,1013,37,datg32
+122,5-methoxytryptamine,730,37,datg32
+123,5'-deoxy-5'-methylthioadenosine,637,37,datg32
+124,4-aminobutyric acid,1615,37,datg32
+125,3-phosphoglycerate,1861,37,datg32
+126,3-hydroxy-3-methylglutaric acid,346,37,datg32
+127,3-aminoisobutyric acid,677,37,datg32
+128,2-methylglyceric acid NIST,4866,37,datg32
+129,2-hydroxyglutaric acid,758,37,datg32
+130,"2,5-dihydroxypyrazine NIST",1492,37,datg32
+0,xanthine,1338,37,datg32
+1,valine,351425,37,datg32
+2,uridine-5'-monophosphate,1784,37,datg32
+3,uridine,521,37,datg32
+4,urea,7330,37,datg32
+5,uracil,4195,37,datg32
+6,UDP-N-acetylglucosamine,394,37,datg32
+7,tyrosol,891,37,datg32
+8,tyrosine,171610,37,datg32
+9,tryptophan,27431,37,datg32
+10,trehalose-6-phosphate,439,37,datg32
+11,trehalose,679973,37,datg32
+12,trans-4-hydroxyproline,10688,37,datg32
+13,thymine,223,37,datg32
+14,threonine,113190,37,datg32
+15,sulfuric acid,2033,37,datg32
+16,sucrose,219,37,datg32
+17,succinic acid,16095,37,datg32
+18,stearic acid,127836,37,datg32
+19,spermidine,2841,37,datg32
+20,sorbitol,608,37,datg32
+21,serine,147375,37,datg32
+22,saccharopine,15841,37,datg32
+23,ribonic acid,412,37,datg32
+24,ribitol,515,37,datg32
+25,pyruvic acid,356,37,datg32
+26,pyrophosphate ,51519,37,datg32
+27,putrescine,2392,37,datg32
+28,pseudo uridine,682,37,datg32
+29,"propane-1,3-diol NIST",224,37,datg32
+30,proline,310883,37,datg32
+31,pipecolinic acid,1492,37,datg32
+32,phosphogluconic acid,600,37,datg32
+33,phosphoenolpyruvate,396,37,datg32
+34,phosphate,17749,37,datg32
+35,phenylalanine,158359,37,datg32
+36,pentadecanoic acid,1407,37,datg32
+37,pelargonic acid,13829,37,datg32
+38,parabanic acid NIST,1978,37,datg32
+39,palmitoleic acid,2189,37,datg32
+40,palmitic acid,20148,37,datg32
+41,oxoproline,334085,37,datg32
+42,oxalic acid,699,37,datg32
+43,orotic acid,3108,37,datg32
+44,ornithine,477119,37,datg32
+45,oleic acid,389,37,datg32
+46,N-methylalanine,5195,37,datg32
+47,nicotinic acid,5154,37,datg32
+48,nicotinamide,962,37,datg32
+49,n-epsilon-trimethyllysine,472,37,datg32
+50,N-carbamylglutamate,396,37,datg32
+51,myristic acid,800,37,datg32
+52,myo-inositol,14290,37,datg32
+53,methionine sulfoxide,37826,37,datg32
+54,methionine,18067,37,datg32
+55,methanolphosphate,12030,37,datg32
+56,malic acid,8700,37,datg32
+57,maleimide,4418,37,datg32
+58,lysine,1030270,37,datg32
+59,levoglucosan,683,37,datg32
+60,leucine,337811,37,datg32
+61,lauric acid,3974,37,datg32
+62,lactulose,519,37,datg32
+63,lactic acid,1064,37,datg32
+64,isothreonic acid,1943,37,datg32
+65,isoleucine,439945,37,datg32
+66,isocitric acid,1722,37,datg32
+67,inositol-4-monophosphate,377,37,datg32
+68,inosine,758,37,datg32
+69,hydroxylamine,11120,37,datg32
+70,hydroxycarbamate NIST,1150,37,datg32
+71,homoserine,1014,37,datg32
+72,histidine,156566,37,datg32
+73,hexose-6-phosphate,354,37,datg32
+74,heptadecanoic acid,944,37,datg32
+75,guanosine,1068,37,datg32
+76,guanine,966,37,datg32
+77,glycyl-proline,6284,37,datg32
+78,glycyl tyrosine,890,37,datg32
+79,glycolic acid,1112,37,datg32
+80,glycine,126160,37,datg32
+81,glycerol-alpha-phosphate,49422,37,datg32
+82,glycerol-3-galactoside,644,37,datg32
+83,glycerol,831790,37,datg32
+84,glyceric acid,4633,37,datg32
+85,glutamine,83886,37,datg32
+86,glutamic acid,587053,37,datg32
+87,glucose-6-phosphate,1384,37,datg32
+88,glucose-1-phosphate,964,37,datg32
+89,glucose,4244,37,datg32
+90,gluconic acid,268,37,datg32
+91,galactose,3396,37,datg32
+92,galactinol,6113,37,datg32
+93,fumaric acid,7462,37,datg32
+94,fructose-6-phosphate,666,37,datg32
+95,fructose,184,37,datg32
+96,ethanol phosphate NIST,1561,37,datg32
+97,ergosterol,599,37,datg32
+98,cytidine-5-monophosphate,293,37,datg32
+99,cysteine-glycine,1750,37,datg32
+100,cysteine,1545,37,datg32
+101,conduritol-beta-epoxide,269,37,datg32
+102,citrulline,7715,37,datg32
+103,citric acid,148380,37,datg32
+104,butyrolactam NIST,2113,37,datg32
+105,"butane-2,3-diol NIST",1044,37,datg32
+106,biphenyl,709,37,datg32
+107,beta-mannosylglycerate,1062,37,datg32
+108,beta-glycerolphosphate,657,37,datg32
+109,aspartic acid,101522,37,datg32
+110,asparagine,19934,37,datg32
+111,arachidic acid,1997,37,datg32
+112,aminomalonate,3781,37,datg32
+113,alpha-ketoglutarate,444,37,datg32
+114,allothreonine,1848,37,datg32
+115,alanine-alanine,3926,37,datg32
+116,alanine,763624,37,datg32
+117,adrenaline,2338,37,datg32
+118,adenosine-5-monophosphate,12823,37,datg32
+119,adenosine,6903,37,datg32
+120,adenine,4319,37,datg32
+121,aconitic acid,310,37,datg32
+122,5-methoxytryptamine,1001,37,datg32
+123,5'-deoxy-5'-methylthioadenosine,371,37,datg32
+124,4-aminobutyric acid,3580,37,datg32
+125,3-phosphoglycerate,903,37,datg32
+126,3-hydroxy-3-methylglutaric acid,221,37,datg32
+127,3-aminoisobutyric acid,143,37,datg32
+128,2-methylglyceric acid NIST,8404,37,datg32
+129,2-hydroxyglutaric acid,937,37,datg32
+130,"2,5-dihydroxypyrazine NIST",1674,37,datg32
+0,xanthine,970,37,datg32
+1,valine,329279,37,datg32
+2,uridine-5'-monophosphate,2409,37,datg32
+3,uridine,302,37,datg32
+4,urea,10875,37,datg32
+5,uracil,4088,37,datg32
+6,UDP-N-acetylglucosamine,950,37,datg32
+7,tyrosol,2452,37,datg32
+8,tyrosine,155764,37,datg32
+9,tryptophan,20853,37,datg32
+10,trehalose-6-phosphate,374,37,datg32
+11,trehalose,1043996,37,datg32
+12,trans-4-hydroxyproline,5804,37,datg32
+13,thymine,274,37,datg32
+14,threonine,128226,37,datg32
+15,sulfuric acid,139,37,datg32
+16,sucrose,171,37,datg32
+17,succinic acid,31805,37,datg32
+18,stearic acid,103189,37,datg32
+19,spermidine,1679,37,datg32
+20,sorbitol,1546,37,datg32
+21,serine,142918,37,datg32
+22,saccharopine,26384,37,datg32
+23,ribonic acid,331,37,datg32
+24,ribitol,551,37,datg32
+25,pyruvic acid,82,37,datg32
+26,pyrophosphate ,118032,37,datg32
+27,putrescine,1111,37,datg32
+28,pseudo uridine,741,37,datg32
+29,"propane-1,3-diol NIST",304,37,datg32
+30,proline,440021,37,datg32
+31,pipecolinic acid,5933,37,datg32
+32,phosphogluconic acid,857,37,datg32
+33,phosphoenolpyruvate,905,37,datg32
+34,phosphate,28024,37,datg32
+35,phenylalanine,102620,37,datg32
+36,pentadecanoic acid,970,37,datg32
+37,pelargonic acid,12956,37,datg32
+38,parabanic acid NIST,1231,37,datg32
+39,palmitoleic acid,3559,37,datg32
+40,palmitic acid,18006,37,datg32
+41,oxoproline,211418,37,datg32
+42,oxalic acid,312,37,datg32
+43,orotic acid,1026,37,datg32
+44,ornithine,245442,37,datg32
+45,oleic acid,755,37,datg32
+46,N-methylalanine,12690,37,datg32
+47,nicotinic acid,2911,37,datg32
+48,nicotinamide,1640,37,datg32
+49,n-epsilon-trimethyllysine,664,37,datg32
+50,N-carbamylglutamate,319,37,datg32
+51,myristic acid,630,37,datg32
+52,myo-inositol,17222,37,datg32
+53,methionine sulfoxide,25444,37,datg32
+54,methionine,17284,37,datg32
+55,methanolphosphate,16768,37,datg32
+56,malic acid,13477,37,datg32
+57,maleimide,3334,37,datg32
+58,lysine,873420,37,datg32
+59,levoglucosan,902,37,datg32
+60,leucine,326811,37,datg32
+61,lauric acid,2960,37,datg32
+62,lactulose,331,37,datg32
+63,lactic acid,765,37,datg32
+64,isothreonic acid,969,37,datg32
+65,isoleucine,399092,37,datg32
+66,isocitric acid,3284,37,datg32
+67,inositol-4-monophosphate,197,37,datg32
+68,inosine,380,37,datg32
+69,hydroxylamine,5695,37,datg32
+70,hydroxycarbamate NIST,681,37,datg32
+71,homoserine,527,37,datg32
+72,histidine,211006,37,datg32
+73,hexose-6-phosphate,473,37,datg32
+74,heptadecanoic acid,849,37,datg32
+75,guanosine,868,37,datg32
+76,guanine,615,37,datg32
+77,glycyl-proline,1763,37,datg32
+78,glycyl tyrosine,925,37,datg32
+79,glycolic acid,752,37,datg32
+80,glycine,224855,37,datg32
+81,glycerol-alpha-phosphate,64263,37,datg32
+82,glycerol-3-galactoside,964,37,datg32
+83,glycerol,663610,37,datg32
+84,glyceric acid,1088,37,datg32
+85,glutamine,111853,37,datg32
+86,glutamic acid,594776,37,datg32
+87,glucose-6-phosphate,2902,37,datg32
+88,glucose-1-phosphate,1993,37,datg32
+89,glucose,7740,37,datg32
+90,gluconic acid,136,37,datg32
+91,galactose,6272,37,datg32
+92,galactinol,6855,37,datg32
+93,fumaric acid,12721,37,datg32
+94,fructose-6-phosphate,1282,37,datg32
+95,fructose,197,37,datg32
+96,ethanol phosphate NIST,1214,37,datg32
+97,ergosterol,1239,37,datg32
+98,cytidine-5-monophosphate,321,37,datg32
+99,cysteine-glycine,3005,37,datg32
+100,cysteine,2955,37,datg32
+101,conduritol-beta-epoxide,126,37,datg32
+102,citrulline,9662,37,datg32
+103,citric acid,280252,37,datg32
+104,butyrolactam NIST,1211,37,datg32
+105,"butane-2,3-diol NIST",1091,37,datg32
+106,biphenyl,702,37,datg32
+107,beta-mannosylglycerate,1135,37,datg32
+108,beta-glycerolphosphate,614,37,datg32
+109,aspartic acid,68645,37,datg32
+110,asparagine,20425,37,datg32
+111,arachidic acid,1776,37,datg32
+112,aminomalonate,5564,37,datg32
+113,alpha-ketoglutarate,1696,37,datg32
+114,allothreonine,9220,37,datg32
+115,alanine-alanine,2345,37,datg32
+116,alanine,697183,37,datg32
+117,adrenaline,1234,37,datg32
+118,adenosine-5-monophosphate,18203,37,datg32
+119,adenosine,2469,37,datg32
+120,adenine,8806,37,datg32
+121,aconitic acid,512,37,datg32
+122,5-methoxytryptamine,1316,37,datg32
+123,5'-deoxy-5'-methylthioadenosine,721,37,datg32
+124,4-aminobutyric acid,2203,37,datg32
+125,3-phosphoglycerate,1955,37,datg32
+126,3-hydroxy-3-methylglutaric acid,358,37,datg32
+127,3-aminoisobutyric acid,174,37,datg32
+128,2-methylglyceric acid NIST,3823,37,datg32
+129,2-hydroxyglutaric acid,864,37,datg32
+130,"2,5-dihydroxypyrazine NIST",808,37,datg32
+0,xanthine,1151,37,datg32
+1,valine,380252,37,datg32
+2,uridine-5'-monophosphate,1442,37,datg32
+3,uridine,664,37,datg32
+4,urea,15536,37,datg32
+5,uracil,1513,37,datg32
+6,UDP-N-acetylglucosamine,1133,37,datg32
+7,tyrosol,2062,37,datg32
+8,tyrosine,163921,37,datg32
+9,tryptophan,5329,37,datg32
+10,trehalose-6-phosphate,426,37,datg32
+11,trehalose,873334,37,datg32
+12,trans-4-hydroxyproline,5571,37,datg32
+13,thymine,302,37,datg32
+14,threonine,109876,37,datg32
+15,sulfuric acid,224,37,datg32
+16,sucrose,267,37,datg32
+17,succinic acid,21887,37,datg32
+18,stearic acid,126736,37,datg32
+19,spermidine,1251,37,datg32
+20,sorbitol,763,37,datg32
+21,serine,131869,37,datg32
+22,saccharopine,31634,37,datg32
+23,ribonic acid,455,37,datg32
+24,ribitol,669,37,datg32
+25,pyruvic acid,470,37,datg32
+26,pyrophosphate ,78592,37,datg32
+27,putrescine,1859,37,datg32
+28,pseudo uridine,1041,37,datg32
+29,"propane-1,3-diol NIST",409,37,datg32
+30,proline,287664,37,datg32
+31,pipecolinic acid,6045,37,datg32
+32,phosphogluconic acid,242,37,datg32
+33,phosphoenolpyruvate,1111,37,datg32
+34,phosphate,33003,37,datg32
+35,phenylalanine,108250,37,datg32
+36,pentadecanoic acid,960,37,datg32
+37,pelargonic acid,14947,37,datg32
+38,parabanic acid NIST,1459,37,datg32
+39,palmitoleic acid,3109,37,datg32
+40,palmitic acid,21434,37,datg32
+41,oxoproline,217174,37,datg32
+42,oxalic acid,245,37,datg32
+43,orotic acid,1477,37,datg32
+44,ornithine,304441,37,datg32
+45,oleic acid,397,37,datg32
+46,N-methylalanine,10992,37,datg32
+47,nicotinic acid,3058,37,datg32
+48,nicotinamide,1038,37,datg32
+49,n-epsilon-trimethyllysine,1076,37,datg32
+50,N-carbamylglutamate,445,37,datg32
+51,myristic acid,860,37,datg32
+52,myo-inositol,22065,37,datg32
+53,methionine sulfoxide,37931,37,datg32
+54,methionine,10614,37,datg32
+55,methanolphosphate,27891,37,datg32
+56,malic acid,14748,37,datg32
+57,maleimide,3631,37,datg32
+58,lysine,1220056,37,datg32
+59,levoglucosan,1045,37,datg32
+60,leucine,462902,37,datg32
+61,lauric acid,5091,37,datg32
+62,lactulose,425,37,datg32
+63,lactic acid,808,37,datg32
+64,isothreonic acid,1307,37,datg32
+65,isoleucine,312697,37,datg32
+66,isocitric acid,3368,37,datg32
+67,inositol-4-monophosphate,565,37,datg32
+68,inosine,399,37,datg32
+69,hydroxylamine,5562,37,datg32
+70,hydroxycarbamate NIST,710,37,datg32
+71,homoserine,719,37,datg32
+72,histidine,209679,37,datg32
+73,hexose-6-phosphate,527,37,datg32
+74,heptadecanoic acid,717,37,datg32
+75,guanosine,864,37,datg32
+76,guanine,828,37,datg32
+77,glycyl-proline,1814,37,datg32
+78,glycyl tyrosine,940,37,datg32
+79,glycolic acid,775,37,datg32
+80,glycine,280463,37,datg32
+81,glycerol-alpha-phosphate,68627,37,datg32
+82,glycerol-3-galactoside,1118,37,datg32
+83,glycerol,302908,37,datg32
+84,glyceric acid,1678,37,datg32
+85,glutamine,116474,37,datg32
+86,glutamic acid,617738,37,datg32
+87,glucose-6-phosphate,1159,37,datg32
+88,glucose-1-phosphate,1662,37,datg32
+89,glucose,9195,37,datg32
+90,gluconic acid,219,37,datg32
+91,galactose,7568,37,datg32
+92,galactinol,3856,37,datg32
+93,fumaric acid,14609,37,datg32
+94,fructose-6-phosphate,637,37,datg32
+95,fructose,265,37,datg32
+96,ethanol phosphate NIST,1210,37,datg32
+97,ergosterol,696,37,datg32
+98,cytidine-5-monophosphate,582,37,datg32
+99,cysteine-glycine,2913,37,datg32
+100,cysteine,2512,37,datg32
+101,conduritol-beta-epoxide,324,37,datg32
+102,citrulline,10594,37,datg32
+103,citric acid,297599,37,datg32
+104,butyrolactam NIST,1534,37,datg32
+105,"butane-2,3-diol NIST",574,37,datg32
+106,biphenyl,1211,37,datg32
+107,beta-mannosylglycerate,1151,37,datg32
+108,beta-glycerolphosphate,1013,37,datg32
+109,aspartic acid,70071,37,datg32
+110,asparagine,20757,37,datg32
+111,arachidic acid,1903,37,datg32
+112,aminomalonate,4417,37,datg32
+113,alpha-ketoglutarate,1164,37,datg32
+114,allothreonine,7541,37,datg32
+115,alanine-alanine,1468,37,datg32
+116,alanine,777170,37,datg32
+117,adrenaline,1567,37,datg32
+118,adenosine-5-monophosphate,17969,37,datg32
+119,adenosine,3684,37,datg32
+120,adenine,8965,37,datg32
+121,aconitic acid,1091,37,datg32
+122,5-methoxytryptamine,1308,37,datg32
+123,5'-deoxy-5'-methylthioadenosine,699,37,datg32
+124,4-aminobutyric acid,1912,37,datg32
+125,3-phosphoglycerate,3692,37,datg32
+126,3-hydroxy-3-methylglutaric acid,345,37,datg32
+127,3-aminoisobutyric acid,264,37,datg32
+128,2-methylglyceric acid NIST,3970,37,datg32
+129,2-hydroxyglutaric acid,968,37,datg32
+130,"2,5-dihydroxypyrazine NIST",864,37,datg32
+0,xanthine,1157,37,datg32
+1,valine,398094,37,datg32
+2,uridine-5'-monophosphate,2674,37,datg32
+3,uridine,297,37,datg32
+4,urea,11822,37,datg32
+5,uracil,3641,37,datg32
+6,UDP-N-acetylglucosamine,1066,37,datg32
+7,tyrosol,3778,37,datg32
+8,tyrosine,165524,37,datg32
+9,tryptophan,10156,37,datg32
+10,trehalose-6-phosphate,463,37,datg32
+11,trehalose,285903,37,datg32
+12,trans-4-hydroxyproline,8119,37,datg32
+13,thymine,364,37,datg32
+14,threonine,143348,37,datg32
+15,sulfuric acid,171,37,datg32
+16,sucrose,127,37,datg32
+17,succinic acid,35008,37,datg32
+18,stearic acid,201517,37,datg32
+19,spermidine,1142,37,datg32
+20,sorbitol,1050,37,datg32
+21,serine,149660,37,datg32
+22,saccharopine,50147,37,datg32
+23,ribonic acid,449,37,datg32
+24,ribitol,762,37,datg32
+25,pyruvic acid,339,37,datg32
+26,pyrophosphate ,127419,37,datg32
+27,putrescine,1520,37,datg32
+28,pseudo uridine,911,37,datg32
+29,"propane-1,3-diol NIST",393,37,datg32
+30,proline,439775,37,datg32
+31,pipecolinic acid,5662,37,datg32
+32,phosphogluconic acid,133,37,datg32
+33,phosphoenolpyruvate,1089,37,datg32
+34,phosphate,34101,37,datg32
+35,phenylalanine,100355,37,datg32
+36,pentadecanoic acid,1491,37,datg32
+37,pelargonic acid,14909,37,datg32
+38,parabanic acid NIST,1177,37,datg32
+39,palmitoleic acid,2774,37,datg32
+40,palmitic acid,29849,37,datg32
+41,oxoproline,204758,37,datg32
+42,oxalic acid,113,37,datg32
+43,orotic acid,2195,37,datg32
+44,ornithine,259095,37,datg32
+45,oleic acid,686,37,datg32
+46,N-methylalanine,12225,37,datg32
+47,nicotinic acid,2292,37,datg32
+48,nicotinamide,1587,37,datg32
+49,n-epsilon-trimethyllysine,856,37,datg32
+50,N-carbamylglutamate,309,37,datg32
+51,myristic acid,891,37,datg32
+52,myo-inositol,19946,37,datg32
+53,methionine sulfoxide,28814,37,datg32
+54,methionine,12368,37,datg32
+55,methanolphosphate,28024,37,datg32
+56,malic acid,16499,37,datg32
+57,maleimide,2618,37,datg32
+58,lysine,1090693,37,datg32
+59,levoglucosan,1521,37,datg32
+60,leucine,391113,37,datg32
+61,lauric acid,8733,37,datg32
+62,lactulose,416,37,datg32
+63,lactic acid,518,37,datg32
+64,isothreonic acid,1185,37,datg32
+65,isoleucine,343436,37,datg32
+66,isocitric acid,3841,37,datg32
+67,inositol-4-monophosphate,522,37,datg32
+68,inosine,346,37,datg32
+69,hydroxylamine,4062,37,datg32
+70,hydroxycarbamate NIST,424,37,datg32
+71,homoserine,594,37,datg32
+72,histidine,205487,37,datg32
+73,hexose-6-phosphate,765,37,datg32
+74,heptadecanoic acid,1329,37,datg32
+75,guanosine,776,37,datg32
+76,guanine,474,37,datg32
+77,glycyl-proline,1612,37,datg32
+78,glycyl tyrosine,767,37,datg32
+79,glycolic acid,440,37,datg32
+80,glycine,378695,37,datg32
+81,glycerol-alpha-phosphate,73423,37,datg32
+82,glycerol-3-galactoside,746,37,datg32
+83,glycerol,342194,37,datg32
+84,glyceric acid,958,37,datg32
+85,glutamine,106995,37,datg32
+86,glutamic acid,826185,37,datg32
+87,glucose-6-phosphate,1790,37,datg32
+88,glucose-1-phosphate,2194,37,datg32
+89,glucose,6888,37,datg32
+90,gluconic acid,307,37,datg32
+91,galactose,5580,37,datg32
+92,galactinol,11052,37,datg32
+93,fumaric acid,19444,37,datg32
+94,fructose-6-phosphate,1025,37,datg32
+95,fructose,207,37,datg32
+96,ethanol phosphate NIST,1511,37,datg32
+97,ergosterol,1242,37,datg32
+98,cytidine-5-monophosphate,647,37,datg32
+99,cysteine-glycine,2512,37,datg32
+100,cysteine,3373,37,datg32
+101,conduritol-beta-epoxide,184,37,datg32
+102,citrulline,8977,37,datg32
+103,citric acid,360308,37,datg32
+104,butyrolactam NIST,1302,37,datg32
+105,"butane-2,3-diol NIST",1371,37,datg32
+106,biphenyl,810,37,datg32
+107,beta-mannosylglycerate,1422,37,datg32
+108,beta-glycerolphosphate,997,37,datg32
+109,aspartic acid,61661,37,datg32
+110,asparagine,22315,37,datg32
+111,arachidic acid,1957,37,datg32
+112,aminomalonate,4694,37,datg32
+113,alpha-ketoglutarate,1389,37,datg32
+114,allothreonine,8072,37,datg32
+115,alanine-alanine,2430,37,datg32
+116,alanine,808304,37,datg32
+117,adrenaline,1022,37,datg32
+118,adenosine-5-monophosphate,17900,37,datg32
+119,adenosine,2484,37,datg32
+120,adenine,11149,37,datg32
+121,aconitic acid,918,37,datg32
+122,5-methoxytryptamine,1221,37,datg32
+123,5'-deoxy-5'-methylthioadenosine,814,37,datg32
+124,4-aminobutyric acid,2352,37,datg32
+125,3-phosphoglycerate,1875,37,datg32
+126,3-hydroxy-3-methylglutaric acid,391,37,datg32
+127,3-aminoisobutyric acid,268,37,datg32
+128,2-methylglyceric acid NIST,4151,37,datg32
+129,2-hydroxyglutaric acid,1030,37,datg32
+130,"2,5-dihydroxypyrazine NIST",1220,37,datg32
